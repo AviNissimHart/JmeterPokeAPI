@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1603185325203,128,HTTP Request,200,OK,Thread Group 2-1,text,true,,21743,132,1,2,https://pokeapi.co/api/v2/pokemon/ditto,117,0,67
+1603186198860,124,HTTP Request,200,OK,Thread Group 2-1,text,true,,21743,132,1,2,https://pokeapi.co/api/v2/pokemon/ditto,121,0,79
+1603186223038,85,HTTP Request,200,OK,Thread Group 2-1,text,true,,21743,132,1,2,https://pokeapi.co/api/v2/pokemon/ditto,81,0,54
+1603186244840,103,HTTP Request,200,OK,Thread Group 2-1,text,true,,21743,132,1,2,https://pokeapi.co/api/v2/pokemon/ditto,97,0,56
+1603186302577,133,HTTP Request,200,OK,Thread Group 2-1,text,true,,21743,132,1,1,https://pokeapi.co/api/v2/pokemon/ditto,126,0,60
