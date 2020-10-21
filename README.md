@@ -47,4 +47,10 @@ Within each test, i have segregated my CRUD functions using logic (simple) contr
 secondly because it is considered good practice. It also helps to ensure everything is run in the sequence it should. I used assertions
 for JSON to ensure correct data is returned, and response assertions for tests where no actual data would be returned e.g. delete.
 
-I am about to start trying out using timers to see if i can prevent the errors occurring......
+I am about to start trying out using timers to see if i can prevent the errors occurring.
+
+UPDATE:
+Having added simple timers to each simple controller - not on load test as it gave me no errors - i found that my errors were
+reduced significanlty for spike, stress and soak. Spike now had no errors and stress & soak had less than 0.32% of errors.
+
+That being said, i found my throughput being reduced significantly which i will investigate tomorrow if we have time.
