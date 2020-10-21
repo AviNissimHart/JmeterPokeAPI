@@ -1,11 +1,11 @@
 # JmeterPokeAPI - All JMeter Testing
 
-In this repository, you can find my practice of non functional tests including spike, stress and load tests.
+In this repository, you can find my practice of non functional tests including spike, stress, soak and load tests.
 There is also my initial test on the PokeAPI
 
 In MyProjectTest, i have tested the CRUD functionality of my previous project's API.
 
-There are 3 seperate folders within that are named after the tests they contain.
+There are 4 seperate folders within that are named after the tests they contain, the other items are just for reference to my original work.
 
 Inside each of these are:
 1. The jmx file for the specified tests
@@ -38,10 +38,13 @@ and to prevent issues when running them. Furthermore, it is considered better pr
 
 As you can see with the html reports, my lowest throughput value was 205.76 per second. I was advised that 200 was considered good
 and that more is better for testing purposes.
-My stress test went up to 1000 on the dot and my spike test was 332.79
+My stress test went up to 1000 on the dot and my spike test was 332.79. My soak test was 510.80.
 This shows that my API was able to just about survive high volumes of threads / requests per second and i have pushed it to its limit.
 (my computer's limit).
 
 
 Within each test, i have segregated my CRUD functions using logic (simple) controllers, firstly to improve readability, and 
-secondly because it is considered good practice. It also helps to ensure everything is run in the sequence it should.
+secondly because it is considered good practice. It also helps to ensure everything is run in the sequence it should. I used assertions
+for JSON to ensure correct data is returned, and response assertions for tests where no actual data would be returned e.g. delete.
+
+I am about to start trying out using timers to see if i can prevent the errors occurring......
