@@ -32,5 +32,13 @@ I can run a test again and again without discrepencies over the respective ids.
 Regarding structure for my tests, I have segregated the load, spike and stress to seperate files in order to compare them easily
 and to prevent issues when running them. Furthermore, it is considered better practice.
 
+As you can see with the html reports, my lowest throughput value was 205.76 per second. I was advised that 200 was considered good
+and that more is better for testing purposes.
+My stress test went up to 1000 on the dot and my spike test was 332.79
+This shows that my API was able to just about survive high volumes of threads / requests per second and i have pushed it to its limit.
+(my computer's limit).
+My speculation over reasoning for the errors are confirmed by the reports showing the only error code to come out was 500 - 
+internal server error - due to me overloading my localhost with the vast quanitity of threads.
+
 Within each test, i have segregated my CRUD functions using logic (simple) controllers, firstly to improve readability, and 
 secondly because it is considered good practice. It also helps to ensure everything is run in the sequence it should.
