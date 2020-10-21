@@ -133,7 +133,7 @@ $(document).ready(function() {
         widgets: ['zebra']
     });
 
-    var data = {"OkPercent": 97.83759929390997, "KoPercent": 2.1624007060900263};
+    var data = {"OkPercent": 100.0, "KoPercent": 0.0};
     var dataset = [
         {
             "label" : "KO",
@@ -173,7 +173,7 @@ $(document).ready(function() {
     });
 
     // Creates APDEX table
-    createTable($("#apdexTable"), {"supportsControllersDiscrimination": true, "overall": {"data": [0.9598411297440423, 500, 1500, "Total"], "isController": false}, "titles": ["Apdex", "T (Toleration threshold)", "F (Frustration threshold)", "Label"], "items": [{"data": [0.7811244979919679, 500, 1500, "HTTP Request - readTasks"], "isController": false}, {"data": [0.9965635738831615, 500, 1500, "HTTP Request-DelList"], "isController": false}, {"data": [0.9627118644067797, 500, 1500, "HTTP Request-createTaskClean"], "isController": false}, {"data": [0.963855421686747, 500, 1500, "HTTP Request-createShopping"], "isController": false}, {"data": [0.9972972972972973, 500, 1500, "HTTP Request-UpdateTaskClean"], "isController": false}, {"data": [0.9941860465116279, 500, 1500, "HTTP Request-UpdateTaskEggs"], "isController": false}, {"data": [0.987220447284345, 500, 1500, "HTTP Request-createReminders"], "isController": false}, {"data": [0.9830827067669173, 500, 1500, "HTTP Request-createTaskEggs"], "isController": false}, {"data": [0.9846625766871165, 500, 1500, "HTTP Request-DelTask"], "isController": false}]}, function(index, item){
+    createTable($("#apdexTable"), {"supportsControllersDiscrimination": true, "overall": {"data": [1.0, 500, 1500, "Total"], "isController": false}, "titles": ["Apdex", "T (Toleration threshold)", "F (Frustration threshold)", "Label"], "items": [{"data": [1.0, 500, 1500, "HTTP Request-createTaskClean"], "isController": false}, {"data": [1.0, 500, 1500, "HTTP Request-createShopping"], "isController": false}, {"data": [1.0, 500, 1500, "HTTP Request-createReminders"], "isController": false}]}, function(index, item){
         switch(index){
             case 0:
                 item = item.toFixed(3);
@@ -187,7 +187,7 @@ $(document).ready(function() {
     }, [[0, 0]], 3);
 
     // Create statistics table
-    createTable($("#statisticsTable"), {"supportsControllersDiscrimination": true, "overall": {"data": ["Total", 2266, 49, 2.1624007060900263, 94.87025595763468, 0, 1165, 8.0, 290.5999999999999, 479.0, 1016.0, 332.79483037156706, 392.91459373623144, 82.40773356036128], "isController": false}, "titles": ["Label", "#Samples", "KO", "Error %", "Average", "Min", "Max", "Median", "90th pct", "95th pct", "99th pct", "Transactions\/s", "Received", "Sent"], "items": [{"data": ["HTTP Request - readTasks", 249, 49, 19.67871485943775, 194.7670682730923, 5, 1095, 34.0, 700.0, 910.0, 1074.0, 39.84, 338.99546875, 7.11984375], "isController": false}, {"data": ["HTTP Request-DelList", 291, 0, 0.0, 28.714776632302407, 1, 672, 4.0, 85.40000000000003, 179.0, 490.1999999999978, 50.47701647875109, 9.415146628360798, 10.447440101908066], "isController": false}, {"data": ["HTTP Request-createTaskClean", 295, 0, 0.0, 120.4745762711864, 1, 1165, 5.0, 433.80000000000024, 821.599999999999, 1131.0400000000004, 46.38364779874213, 14.031790487421382, 13.674024665880502], "isController": false}, {"data": ["HTTP Request-createShopping", 332, 0, 0.0, 158.4578313253011, 1, 1059, 77.5, 384.7, 823.0, 1043.3400000000001, 48.93867924528302, 14.566097619398585, 11.374419590212264], "isController": false}, {"data": ["HTTP Request-UpdateTaskClean", 185, 0, 0.0, 49.63243243243244, 1, 554, 6.0, 164.20000000000002, 260.1999999999997, 465.4199999999986, 31.40383636054999, 9.593885269903243, 9.343403868188762], "isController": false}, {"data": ["HTTP Request-UpdateTaskEggs", 172, 0, 0.0, 43.65697674418605, 1, 651, 3.0, 159.80000000000007, 260.75, 621.0700000000004, 29.39668432746539, 9.125209632968723, 8.92041691591181], "isController": false}, {"data": ["HTTP Request-createReminders", 313, 0, 0.0, 86.3610223642173, 0, 1157, 12.0, 258.60000000000014, 467.90000000000003, 1107.5800000000027, 49.15972985707555, 14.68478826370347, 11.473804136563531], "isController": false}, {"data": ["HTTP Request-createTaskEggs", 266, 0, 0.0, 70.99248120300744, 0, 1123, 4.0, 171.0, 356.14999999999975, 1000.8699999999994, 42.20212597175948, 12.769526911788038, 12.439667866492147], "isController": false}, {"data": ["HTTP Request-DelTask", 163, 0, 0.0, 45.20858895705523, 1, 795, 4.0, 101.19999999999999, 287.9999999999999, 668.279999999997, 27.858485728935225, 5.196260521705692, 5.735531319432575], "isController": false}]}, function(index, item){
+    createTable($("#statisticsTable"), {"supportsControllersDiscrimination": true, "overall": {"data": ["Total", 515, 0, 0.0, 30.559223300970892, 1, 407, 3.0, 67.4000000000002, 268.1999999999998, 362.67999999999995, 80.26807980049875, 24.004168046680174, 19.97950071111284], "isController": false}, "titles": ["Label", "#Samples", "KO", "Error %", "Average", "Min", "Max", "Median", "90th pct", "95th pct", "99th pct", "Transactions\/s", "Received", "Sent"], "items": [{"data": ["HTTP Request-createTaskClean", 133, 0, 0.0, 6.616541353383459, 1, 71, 2.0, 8.200000000000017, 54.0, 68.95999999999998, 24.71200297287254, 7.4615762030843555, 7.2881102517651435], "isController": false}, {"data": ["HTTP Request-createShopping", 199, 0, 0.0, 68.02010050251262, 2, 407, 4.0, 318.0, 339.0, 372.0, 34.251290877796905, 10.186841114457833, 7.960749246987953], "isController": false}, {"data": ["HTTP Request-createReminders", 183, 0, 0.0, 7.224043715846989, 2, 55, 3.0, 19.599999999999994, 29.199999999999932, 47.43999999999997, 33.57798165137615, 10.030640768348624, 7.837048451834862], "isController": false}]}, function(index, item){
         switch(index){
             // Errors pct
             case 3:
@@ -217,7 +217,7 @@ $(document).ready(function() {
     }, [[0, 0]], 0, summaryTableHeader);
 
     // Create error table
-    createTable($("#errorsTable"), {"supportsControllersDiscrimination": false, "titles": ["Type of error", "Number of errors", "% in errors", "% in all samples"], "items": [{"data": ["500", 49, 100.0, 2.1624007060900263], "isController": false}]}, function(index, item){
+    createTable($("#errorsTable"), {"supportsControllersDiscrimination": false, "titles": ["Type of error", "Number of errors", "% in errors", "% in all samples"], "items": []}, function(index, item){
         switch(index){
             case 2:
             case 3:
@@ -228,7 +228,7 @@ $(document).ready(function() {
     }, [[1, 1]]);
 
         // Create top5 errors by sampler
-    createTable($("#top5ErrorsBySamplerTable"), {"supportsControllersDiscrimination": false, "overall": {"data": ["Total", 2266, 49, "500", 49, null, null, null, null, null, null, null, null], "isController": false}, "titles": ["Sample", "#Samples", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors"], "items": [{"data": ["HTTP Request - readTasks", 249, 49, "500", 49, null, null, null, null, null, null, null, null], "isController": false}, {"data": [], "isController": false}, {"data": [], "isController": false}, {"data": [], "isController": false}, {"data": [], "isController": false}, {"data": [], "isController": false}, {"data": [], "isController": false}, {"data": [], "isController": false}, {"data": [], "isController": false}]}, function(index, item){
+    createTable($("#top5ErrorsBySamplerTable"), {"supportsControllersDiscrimination": false, "overall": {"data": ["Total", 515, 0, null, null, null, null, null, null, null, null, null, null], "isController": false}, "titles": ["Sample", "#Samples", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors"], "items": [{"data": [], "isController": false}, {"data": [], "isController": false}, {"data": [], "isController": false}]}, function(index, item){
         return item;
     }, [[0, 0]], 0);
 
