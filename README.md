@@ -28,3 +28,9 @@ up my spring boot again.
 As my ids are generated as primary keys, they are subject to only go up and never repeat until the spring boot is terminated
 and spun up again. Therefore, i used JSON extractors to get the id generated and use it later in my other tests to ensure 
 I can run a test again and again without discrepencies over the respective ids.
+
+Regarding structure for my tests, I have segregated the load, spike and stress to seperate files in order to compare them easily
+and to prevent issues when running them. Furthermore, it is considered better practice.
+
+Within each test, i have segregated my CRUD functions using logic (simple) controllers, firstly to improve readability, and 
+secondly because it is considered good practice. It also helps to ensure everything is run in the sequence it should.
