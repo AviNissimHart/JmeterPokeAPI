@@ -1,0 +1,1401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1603278684380,240,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-1,text,true,,303,238,4,4,http://localhost:8901/tlist/create,237,0,24
+1603278684379,240,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-2,text,true,,303,238,4,4,http://localhost:8901/tlist/create,237,0,24
+1603278684569,50,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-4,text,true,,303,238,4,4,http://localhost:8901/tlist/create,47,0,4
+1603278684437,182,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-3,text,true,,303,238,4,4,http://localhost:8901/tlist/create,179,0,1
+1603278684645,9,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-5,text,true,,303,238,5,5,http://localhost:8901/tlist/create,9,0,1
+1603278684652,8,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-3,text,true,,304,239,5,5,http://localhost:8901/tlist/create,7,0,0
+1603278684655,10,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-5,text,true,,304,239,5,5,http://localhost:8901/tlist/create,9,0,0
+1603278684651,17,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-2,text,true,,304,239,5,5,http://localhost:8901/tlist/create,16,0,0
+1603278684651,21,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-1,text,true,,304,239,5,5,http://localhost:8901/tlist/create,20,0,0
+1603278684652,25,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-4,text,true,,305,239,5,5,http://localhost:8901/tlist/create,25,0,0
+1603278684668,24,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-2,text,true,,308,300,5,5,http://localhost:8901/task/create,23,0,0
+1603278684665,27,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-5,text,true,,308,300,5,5,http://localhost:8901/task/create,26,0,0
+1603278684672,23,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-1,text,true,,308,300,5,5,http://localhost:8901/task/create,22,0,0
+1603278684677,15,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-4,text,true,,308,301,5,5,http://localhost:8901/task/create,14,0,0
+1603278684660,35,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-3,text,true,,308,300,5,5,http://localhost:8901/task/create,33,0,0
+1603278684696,7,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-1,text,true,,308,300,5,5,http://localhost:8901/task/create,7,0,0
+1603278684696,9,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-5,text,true,,308,300,5,5,http://localhost:8901/task/create,7,0,0
+1603278684696,13,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-4,text,true,,308,300,5,5,http://localhost:8901/task/create,13,0,0
+1603278684696,19,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-3,text,true,,308,300,5,5,http://localhost:8901/task/create,18,0,0
+1603278684696,21,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-2,text,true,,309,300,5,5,http://localhost:8901/task/create,21,0,0
+1603278684744,8,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-6,text,true,,304,238,6,6,http://localhost:8901/tlist/create,8,0,4
+1603278684752,4,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-6,text,true,,305,239,6,6,http://localhost:8901/tlist/create,3,0,0
+1603278684756,4,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-6,text,true,,309,301,6,6,http://localhost:8901/task/create,4,0,0
+1603278684760,4,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-6,text,true,,309,301,6,6,http://localhost:8901/task/create,4,0,0
+1603278684710,94,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-4,text,true,,831,183,6,6,http://localhost:8901/task/read,94,0,0
+1603278684715,90,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-3,text,true,,831,183,6,6,http://localhost:8901/task/read,89,0,0
+1603278684717,89,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-2,text,true,,831,183,6,6,http://localhost:8901/task/read,88,0,0
+1603278684704,104,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-1,text,true,,831,183,6,6,http://localhost:8901/task/read,103,0,0
+1603278684765,45,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-6,text,true,,831,183,6,6,http://localhost:8901/task/read,45,0,0
+1603278684705,108,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-5,text,true,,831,183,6,6,http://localhost:8901/task/read,108,0,0
+1603278684805,23,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-3,text,true,,311,301,6,6,http://localhost:8901/task/update/2,23,0,0
+1603278684806,22,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-2,text,true,,311,301,6,6,http://localhost:8901/task/update/3,22,0,0
+1603278684808,21,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-1,text,true,,311,301,6,6,http://localhost:8901/task/update/4,20,0,0
+1603278684805,26,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-4,text,true,,311,301,6,6,http://localhost:8901/task/update/1,26,0,0
+1603278684811,23,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-6,text,true,,312,303,6,6,http://localhost:8901/task/update/11,23,0,0
+1603278684829,5,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-2,text,true,,317,309,6,6,http://localhost:8901/task/update/10,5,0,0
+1603278684814,23,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-5,text,true,,311,301,6,6,http://localhost:8901/task/update/5,23,0,0
+1603278684828,11,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-3,text,true,,316,306,6,6,http://localhost:8901/task/update/9,9,0,0
+1603278684838,5,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-5,text,true,,316,306,6,6,http://localhost:8901/task/update/7,4,0,0
+1603278684835,8,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-6,text,true,,317,309,6,6,http://localhost:8901/task/update/12,8,0,0
+1603278684832,17,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-4,text,true,,316,306,6,6,http://localhost:8901/task/update/8,17,0,0
+1603278684830,29,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-1,text,true,,316,306,6,6,http://localhost:8901/task/update/6,29,0,0
+1603278684840,32,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-3,,true,,191,209,7,7,http://localhost:8901/task/delete/2,0,0,0
+1603278684835,39,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-2,,true,,191,209,7,7,http://localhost:8901/task/delete/3,0,0,0
+1603278684844,34,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-6,,true,,191,210,7,7,http://localhost:8901/task/delete/11,0,0,0
+1603278684860,22,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-1,,true,,191,209,7,7,http://localhost:8901/task/delete/4,0,0,0
+1603278684843,39,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-5,,true,,191,209,7,7,http://localhost:8901/task/delete/5,0,0,0
+1603278684850,37,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-4,,true,,191,209,7,7,http://localhost:8901/task/delete/1,0,0,0
+1603278684873,17,HTTP Request-DelList,204,,TaskList CRUD tests load 1-3,,true,,191,210,7,7,http://localhost:8901/tlist/delete/2,0,0,0
+1603278684875,15,HTTP Request-DelList,204,,TaskList CRUD tests load 1-2,,true,,191,210,7,7,http://localhost:8901/tlist/delete/1,0,0,0
+1603278684887,7,HTTP Request-DelList,204,,TaskList CRUD tests load 1-4,,true,,191,210,7,7,http://localhost:8901/tlist/delete/4,0,0,0
+1603278684890,5,HTTP Request-DelList,204,,TaskList CRUD tests load 1-2,,true,,191,210,7,7,http://localhost:8901/tlist/delete/8,0,0,0
+1603278684890,6,HTTP Request-DelList,204,,TaskList CRUD tests load 1-3,,true,,191,210,7,7,http://localhost:8901/tlist/delete/6,0,0,0
+1603278684895,4,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-2,text,true,,304,238,7,7,http://localhost:8901/tlist/create,3,0,0
+1603278684895,5,HTTP Request-DelList,204,,TaskList CRUD tests load 1-4,,true,,191,211,7,7,http://localhost:8901/tlist/delete/10,0,0,0
+1603278684883,18,HTTP Request-DelList,204,,TaskList CRUD tests load 1-1,,true,,191,210,7,7,http://localhost:8901/tlist/delete/3,0,0,0
+1603278684900,4,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-4,text,true,,304,238,7,7,http://localhost:8901/tlist/create,3,0,0
+1603278684878,29,HTTP Request-DelList,204,,TaskList CRUD tests load 1-6,,true,,191,211,7,7,http://localhost:8901/tlist/delete/11,0,0,0
+1603278684882,25,HTTP Request-DelList,204,,TaskList CRUD tests load 1-5,,true,,191,210,7,7,http://localhost:8901/tlist/delete/5,0,0,0
+1603278684902,8,HTTP Request-DelList,204,,TaskList CRUD tests load 1-1,,true,,191,210,7,7,http://localhost:8901/tlist/delete/9,0,0,0
+1603278684904,6,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-4,text,true,,305,239,7,7,http://localhost:8901/tlist/create,6,0,0
+1603278684896,16,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-3,text,true,,304,238,7,7,http://localhost:8901/tlist/create,16,0,0
+1603278684910,4,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-1,text,true,,304,238,7,7,http://localhost:8901/tlist/create,3,0,0
+1603278684914,3,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-1,text,true,,305,239,7,7,http://localhost:8901/tlist/create,3,0,0
+1603278684899,18,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-2,text,true,,305,239,7,7,http://localhost:8901/tlist/create,18,0,0
+1603278684907,15,HTTP Request-DelList,204,,TaskList CRUD tests load 1-6,,true,,191,211,7,7,http://localhost:8901/tlist/delete/12,0,0,0
+1603278684918,4,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-1,text,true,,309,301,7,7,http://localhost:8901/task/create,4,0,0
+1603278684918,7,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-2,text,true,,309,301,7,7,http://localhost:8901/task/create,7,0,0
+1603278684913,13,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-3,text,true,,305,239,7,7,http://localhost:8901/tlist/create,12,0,0
+1603278684922,5,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-6,text,true,,304,238,7,7,http://localhost:8901/tlist/create,4,0,0
+1603278684923,6,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-1,text,true,,309,301,7,7,http://localhost:8901/task/create,6,0,0
+1603278684926,5,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-3,text,true,,309,301,7,7,http://localhost:8901/task/create,4,0,0
+1603278684927,7,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-6,text,true,,305,239,7,7,http://localhost:8901/tlist/create,6,0,0
+1603278684931,5,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-3,text,true,,309,301,7,7,http://localhost:8901/task/create,4,0,0
+1603278684925,13,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-2,text,true,,309,301,7,7,http://localhost:8901/task/create,13,0,0
+1603278684934,4,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-6,text,true,,309,301,7,7,http://localhost:8901/task/create,4,0,0
+1603278684930,10,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-1,text,true,,552,183,7,7,http://localhost:8901/task/read,9,0,0
+1603278684939,3,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-6,text,true,,309,301,7,7,http://localhost:8901/task/create,3,0,0
+1603278684936,8,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-3,text,true,,648,183,7,7,http://localhost:8901/task/read,7,0,0
+1603278684940,6,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-1,text,true,,312,303,7,7,http://localhost:8901/task/update/14,6,0,0
+1603278684938,10,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-2,text,true,,696,183,7,7,http://localhost:8901/task/read,10,0,0
+1603278684944,6,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-3,text,true,,312,303,7,7,http://localhost:8901/task/update/18,6,0,0
+1603278684948,6,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-2,text,true,,312,303,7,7,http://localhost:8901/task/update/15,5,0,0
+1603278684951,6,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-3,text,true,,317,309,7,7,http://localhost:8901/task/update/19,5,0,0
+1603278684942,16,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-6,text,true,,702,183,7,7,http://localhost:8901/task/read,15,0,0
+1603278684954,5,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-2,text,true,,317,309,7,7,http://localhost:8901/task/update/17,5,0,0
+1603278684958,5,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-3,,true,,191,210,7,7,http://localhost:8901/task/delete/18,0,0,0
+1603278684947,19,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-1,text,true,,317,309,7,7,http://localhost:8901/task/update/16,6,0,0
+1603278684959,8,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-6,text,true,,312,303,7,7,http://localhost:8901/task/update/20,8,0,0
+1603278684960,8,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-2,,true,,191,210,7,7,http://localhost:8901/task/delete/15,0,0,0
+1603278684967,5,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-1,,true,,191,210,7,7,http://localhost:8901/task/delete/14,0,0,0
+1603278684963,9,HTTP Request-DelList,204,,TaskList CRUD tests load 1-3,,true,,191,211,7,7,http://localhost:8901/tlist/delete/17,0,0,0
+1603278684973,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-3,,true,,191,211,7,7,http://localhost:8901/tlist/delete/20,0,0,0
+1603278684973,6,HTTP Request-DelList,204,,TaskList CRUD tests load 1-1,,true,,191,211,6,6,http://localhost:8901/tlist/delete/18,0,0,0
+1603278684969,11,HTTP Request-DelList,204,,TaskList CRUD tests load 1-2,,true,,191,211,6,6,http://localhost:8901/tlist/delete/13,0,0,0
+1603278684968,13,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-6,text,true,,317,309,6,6,http://localhost:8901/task/update/21,13,0,0
+1603278684980,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-2,,true,,191,211,6,6,http://localhost:8901/tlist/delete/15,0,0,0
+1603278684980,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-1,,true,,191,211,6,6,http://localhost:8901/tlist/delete/19,0,0,0
+1603278684982,6,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-6,,true,,191,210,4,4,http://localhost:8901/task/delete/20,0,0,0
+1603278684988,5,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-7,text,true,,304,238,4,4,http://localhost:8901/tlist/create,4,0,1
+1603278684988,5,HTTP Request-DelList,204,,TaskList CRUD tests load 1-6,,true,,191,211,4,4,http://localhost:8901/tlist/delete/21,0,0,0
+1603278684993,5,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-7,text,true,,305,239,4,4,http://localhost:8901/tlist/create,4,0,0
+1603278684993,7,HTTP Request-DelList,204,,TaskList CRUD tests load 1-6,,true,,191,211,4,4,http://localhost:8901/tlist/delete/22,0,0,0
+1603278684998,4,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-7,text,true,,309,301,3,3,http://localhost:8901/task/create,3,0,0
+1603278684907,97,HTTP Request-DelList,204,,TaskList CRUD tests load 1-5,,true,,191,210,3,3,http://localhost:8901/tlist/delete/7,0,0,0
+1603278685002,4,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-7,text,true,,309,301,3,3,http://localhost:8901/task/create,4,0,0
+1603278685004,6,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-5,text,true,,304,238,3,3,http://localhost:8901/tlist/create,5,0,0
+1603278684910,102,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-4,text,true,,309,301,3,3,http://localhost:8901/task/create,102,0,0
+1603278685011,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-5,text,true,,305,239,4,4,http://localhost:8901/tlist/create,2,0,0
+1603278685014,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-5,text,true,,309,301,4,4,http://localhost:8901/task/create,2,0,0
+1603278685012,4,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-4,text,true,,309,301,4,4,http://localhost:8901/task/create,4,0,0
+1603278685014,4,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-8,text,true,,304,238,4,4,http://localhost:8901/tlist/create,3,0,0
+1603278685016,5,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-5,text,true,,309,301,4,4,http://localhost:8901/task/create,4,0,0
+1603278685018,3,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-8,text,true,,305,239,4,4,http://localhost:8901/tlist/create,2,0,0
+1603278685022,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-8,text,true,,309,301,4,4,http://localhost:8901/task/create,2,0,0
+1603278685021,5,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-5,text,true,,552,183,4,4,http://localhost:8901/task/read,5,0,0
+1603278685017,11,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-4,text,true,,552,183,4,4,http://localhost:8901/task/read,11,0,0
+1603278685025,7,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-8,text,true,,309,301,4,4,http://localhost:8901/task/create,6,0,0
+1603278685027,8,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-5,text,true,,312,303,4,4,http://localhost:8901/task/update/25,8,0,0
+1603278685032,6,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-8,text,true,,654,183,4,4,http://localhost:8901/task/read,6,0,0
+1603278685035,4,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-5,text,true,,317,309,4,4,http://localhost:8901/task/update/26,4,0,0
+1603278685038,4,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-8,text,true,,312,303,4,4,http://localhost:8901/task/update/27,4,0,0
+1603278685040,5,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-5,,true,,191,210,4,4,http://localhost:8901/task/delete/25,0,0,0
+1603278685043,4,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-8,text,true,,317,309,4,4,http://localhost:8901/task/update/28,4,0,0
+1603278685045,6,HTTP Request-DelList,204,,TaskList CRUD tests load 1-5,,true,,191,211,4,4,http://localhost:8901/tlist/delete/25,0,0,0
+1603278685048,5,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-8,,true,,191,210,4,4,http://localhost:8901/task/delete/27,0,0,0
+1603278685051,6,HTTP Request-DelList,204,,TaskList CRUD tests load 1-5,,true,,191,211,4,4,http://localhost:8901/tlist/delete/26,0,0,0
+1603278685054,5,HTTP Request-DelList,204,,TaskList CRUD tests load 1-8,,true,,191,211,3,3,http://localhost:8901/tlist/delete/27,0,0,0
+1603278685060,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-8,,true,,191,211,3,3,http://localhost:8901/tlist/delete/28,0,0,0
+1603278685066,4,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-8,text,true,,304,238,3,3,http://localhost:8901/tlist/create,4,0,0
+1603278685029,43,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-4,text,true,,312,303,3,3,http://localhost:8901/task/update/13,6,0,0
+1603278685071,3,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-8,text,true,,305,239,3,3,http://localhost:8901/tlist/create,2,0,0
+1603278685006,68,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-7,text,true,,458,183,3,3,http://localhost:8901/task/read,66,0,0
+1603278685073,4,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-4,text,true,,317,309,3,3,http://localhost:8901/task/update/24,4,0,0
+1603278685074,3,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-8,text,true,,309,301,3,3,http://localhost:8901/task/create,3,0,0
+1603278685074,4,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-7,text,true,,312,303,3,3,http://localhost:8901/task/update/22,4,0,0
+1603278685077,3,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-8,text,true,,309,301,3,3,http://localhost:8901/task/create,3,0,0
+1603278685077,5,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-4,,true,,191,210,3,3,http://localhost:8901/task/delete/13,0,0,0
+1603278685079,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-7,text,true,,317,309,3,3,http://localhost:8901/task/update/23,3,0,0
+1603278685080,5,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-8,text,true,,514,183,3,3,http://localhost:8901/task/read,5,0,0
+1603278685083,4,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-7,,true,,191,210,3,3,http://localhost:8901/task/delete/22,0,0,0
+1603278685082,5,HTTP Request-DelList,204,,TaskList CRUD tests load 1-4,,true,,191,211,3,3,http://localhost:8901/tlist/delete/14,0,0,0
+1603278685085,7,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-8,text,true,,312,303,3,3,http://localhost:8901/task/update/29,7,0,0
+1603278685087,7,HTTP Request-DelList,204,,TaskList CRUD tests load 1-4,,true,,191,211,3,3,http://localhost:8901/tlist/delete/16,0,0,0
+1603278685092,5,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-8,text,true,,317,309,3,3,http://localhost:8901/task/update/30,4,0,0
+1603278685097,4,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-8,,true,,191,210,3,3,http://localhost:8901/task/delete/29,0,0,0
+1603278685098,3,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-9,text,true,,304,238,3,3,http://localhost:8901/tlist/create,2,0,0
+1603278685102,3,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-9,text,true,,305,239,3,3,http://localhost:8901/tlist/create,3,0,0
+1603278685087,19,HTTP Request-DelList,204,,TaskList CRUD tests load 1-7,,true,,191,211,3,3,http://localhost:8901/tlist/delete/23,0,0,0
+1603278685101,7,HTTP Request-DelList,204,,TaskList CRUD tests load 1-8,,true,,191,211,3,3,http://localhost:8901/tlist/delete/29,0,0,0
+1603278685105,5,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-9,text,true,,309,301,3,3,http://localhost:8901/task/create,4,0,0
+1603278685110,3,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-9,text,true,,309,301,3,3,http://localhost:8901/task/create,3,0,0
+1603278685108,6,HTTP Request-DelList,204,,TaskList CRUD tests load 1-8,,true,,191,211,3,3,http://localhost:8901/tlist/delete/30,0,0,0
+1603278685113,4,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-9,text,true,,359,183,2,2,http://localhost:8901/task/read,3,0,0
+1603278685106,11,HTTP Request-DelList,204,,TaskList CRUD tests load 1-7,,true,,191,211,2,2,http://localhost:8901/tlist/delete/24,0,0,0
+1603278685118,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-9,text,true,,312,303,2,2,http://localhost:8901/task/update/31,3,0,0
+1603278685122,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-9,text,true,,317,309,2,2,http://localhost:8901/task/update/32,3,0,0
+1603278685117,8,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-7,text,true,,304,238,2,2,http://localhost:8901/tlist/create,8,0,0
+1603278685125,5,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-9,,true,,191,210,2,2,http://localhost:8901/task/delete/31,0,0,0
+1603278685130,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-9,,true,,191,211,2,2,http://localhost:8901/tlist/delete/31,0,0,0
+1603278685126,8,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-7,text,true,,305,239,2,2,http://localhost:8901/tlist/create,7,0,0
+1603278685135,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-9,,true,,191,211,2,2,http://localhost:8901/tlist/delete/32,0,0,0
+1603278685135,4,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-7,text,true,,309,301,2,2,http://localhost:8901/task/create,3,0,0
+1603278685139,3,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-9,text,true,,304,238,2,2,http://localhost:8901/tlist/create,3,0,0
+1603278685139,4,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-7,text,true,,309,301,3,3,http://localhost:8901/task/create,4,0,0
+1603278685142,3,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-9,text,true,,305,239,3,3,http://localhost:8901/tlist/create,3,0,0
+1603278685143,4,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-7,text,true,,359,183,3,3,http://localhost:8901/task/read,3,0,0
+1603278685146,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-9,text,true,,309,301,3,3,http://localhost:8901/task/create,2,0,0
+1603278685144,6,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-10,text,true,,304,238,3,3,http://localhost:8901/tlist/create,6,0,2
+1603278685147,4,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-7,text,true,,312,303,3,3,http://localhost:8901/task/update/33,4,0,0
+1603278685149,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-9,text,true,,309,301,3,3,http://localhost:8901/task/create,2,0,0
+1603278685151,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-7,text,true,,317,309,3,3,http://localhost:8901/task/update/34,3,0,0
+1603278685150,5,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-10,text,true,,305,239,3,3,http://localhost:8901/tlist/create,5,0,0
+1603278685152,4,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-9,text,true,,458,183,3,3,http://localhost:8901/task/read,3,0,0
+1603278685156,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-9,text,true,,312,303,3,3,http://localhost:8901/task/update/35,3,0,0
+1603278685155,4,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-7,,true,,191,210,3,3,http://localhost:8901/task/delete/33,0,0,0
+1603278685159,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-9,text,true,,317,309,3,3,http://localhost:8901/task/update/36,3,0,0
+1603278685160,3,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-10,text,true,,309,301,3,3,http://localhost:8901/task/create,2,0,0
+1603278685159,5,HTTP Request-DelList,204,,TaskList CRUD tests load 1-7,,true,,191,211,3,3,http://localhost:8901/tlist/delete/33,0,0,0
+1603278685163,3,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-10,text,true,,309,301,3,3,http://localhost:8901/task/create,2,0,0
+1603278685163,4,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-9,,true,,191,210,3,3,http://localhost:8901/task/delete/35,0,0,0
+1603278685164,5,HTTP Request-DelList,204,,TaskList CRUD tests load 1-7,,true,,191,211,3,3,http://localhost:8901/tlist/delete/34,0,0,0
+1603278685166,4,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-10,text,true,,415,183,2,2,http://localhost:8901/task/read,4,0,0
+1603278685167,5,HTTP Request-DelList,204,,TaskList CRUD tests load 1-9,,true,,191,211,2,2,http://localhost:8901/tlist/delete/35,0,0,0
+1603278685171,4,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-10,text,true,,312,303,2,2,http://localhost:8901/task/update/37,3,0,0
+1603278685173,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-9,,true,,191,211,2,2,http://localhost:8901/tlist/delete/36,0,0,0
+1603278685175,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-10,text,true,,317,309,1,1,http://localhost:8901/task/update/38,3,0,0
+1603278685179,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-10,,true,,191,210,1,1,http://localhost:8901/task/delete/37,0,0,0
+1603278685182,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-10,,true,,191,211,1,1,http://localhost:8901/tlist/delete/37,0,0,0
+1603278685186,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-10,,true,,191,211,1,1,http://localhost:8901/tlist/delete/38,0,0,0
+1603278685189,3,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-10,text,true,,304,238,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278685192,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-10,text,true,,305,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278685195,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-10,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278685198,3,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-10,text,true,,309,301,1,1,http://localhost:8901/task/create,3,0,0
+1603278685202,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-10,text,true,,359,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278685205,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-10,text,true,,312,303,1,1,http://localhost:8901/task/update/39,3,0,0
+1603278685209,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-10,text,true,,317,309,1,1,http://localhost:8901/task/update/40,3,0,0
+1603278685212,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-10,,true,,191,210,1,1,http://localhost:8901/task/delete/39,0,0,0
+1603278685215,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-10,,true,,191,211,1,1,http://localhost:8901/tlist/delete/39,0,0,0
+1603278685219,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-10,,true,,191,211,1,1,http://localhost:8901/tlist/delete/40,0,0,0
+1603278685240,3,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-11,text,true,,304,238,1,1,http://localhost:8901/tlist/create,3,0,1
+1603278685243,3,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-11,text,true,,305,239,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278685246,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-11,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278685249,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-11,text,true,,309,301,1,1,http://localhost:8901/task/create,1,0,0
+1603278685251,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-11,text,true,,359,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278685253,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-11,text,true,,312,303,1,1,http://localhost:8901/task/update/41,3,0,0
+1603278685256,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-11,text,true,,317,309,1,1,http://localhost:8901/task/update/42,3,0,0
+1603278685260,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-11,,true,,191,210,1,1,http://localhost:8901/task/delete/41,0,0,0
+1603278685263,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-11,,true,,191,211,1,1,http://localhost:8901/tlist/delete/41,0,0,0
+1603278685266,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-11,,true,,191,211,1,1,http://localhost:8901/tlist/delete/42,0,0,0
+1603278685269,3,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-11,text,true,,304,238,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278685272,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-11,text,true,,305,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278685274,3,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-11,text,true,,309,301,1,1,http://localhost:8901/task/create,3,0,0
+1603278685277,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-11,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278685280,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-11,text,true,,359,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278685282,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-11,text,true,,312,303,1,1,http://localhost:8901/task/update/43,3,0,0
+1603278685286,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-11,text,true,,317,309,1,1,http://localhost:8901/task/update/44,3,0,0
+1603278685289,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-11,,true,,191,210,1,1,http://localhost:8901/task/delete/43,0,0,0
+1603278685292,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-11,,true,,191,211,1,1,http://localhost:8901/tlist/delete/43,0,0,0
+1603278685296,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-11,,true,,191,211,1,1,http://localhost:8901/tlist/delete/44,0,0,0
+1603278685353,11,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-12,text,true,,304,238,1,1,http://localhost:8901/tlist/create,10,0,2
+1603278685365,11,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-12,text,true,,305,239,1,1,http://localhost:8901/tlist/create,10,0,0
+1603278685377,9,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-12,text,true,,309,301,1,1,http://localhost:8901/task/create,8,0,0
+1603278685388,4,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-12,text,true,,309,301,1,1,http://localhost:8901/task/create,4,0,0
+1603278685393,4,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-12,text,true,,359,183,1,1,http://localhost:8901/task/read,3,0,0
+1603278685398,5,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-12,text,true,,312,303,1,1,http://localhost:8901/task/update/45,4,0,0
+1603278685404,5,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-12,text,true,,317,309,1,1,http://localhost:8901/task/update/46,5,0,0
+1603278685410,5,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-12,,true,,191,210,1,1,http://localhost:8901/task/delete/45,0,0,0
+1603278685415,5,HTTP Request-DelList,204,,TaskList CRUD tests load 1-12,,true,,191,211,1,1,http://localhost:8901/tlist/delete/45,0,0,0
+1603278685421,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-12,,true,,191,211,1,1,http://localhost:8901/tlist/delete/46,0,0,0
+1603278685424,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-12,text,true,,304,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278685427,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-12,text,true,,305,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278685429,3,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-12,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278685432,3,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-12,text,true,,309,301,1,1,http://localhost:8901/task/create,3,0,0
+1603278685435,3,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-12,text,true,,359,183,1,1,http://localhost:8901/task/read,3,0,0
+1603278685438,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-12,text,true,,312,303,1,1,http://localhost:8901/task/update/47,3,0,0
+1603278685442,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-12,text,true,,317,309,1,1,http://localhost:8901/task/update/48,3,0,0
+1603278685445,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-12,,true,,191,210,1,1,http://localhost:8901/task/delete/47,0,0,0
+1603278685448,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-12,,true,,191,211,2,2,http://localhost:8901/tlist/delete/47,0,0,0
+1603278685450,3,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-13,text,true,,304,238,2,2,http://localhost:8901/tlist/create,3,0,1
+1603278685452,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-12,,true,,191,211,2,2,http://localhost:8901/tlist/delete/48,0,0,0
+1603278685454,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-13,text,true,,305,239,2,2,http://localhost:8901/tlist/create,2,0,0
+1603278685456,3,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-13,text,true,,309,301,1,1,http://localhost:8901/task/create,3,0,0
+1603278685459,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-13,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278685462,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-13,text,true,,359,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278685464,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-13,text,true,,312,303,1,1,http://localhost:8901/task/update/49,3,0,0
+1603278685467,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-13,text,true,,317,309,1,1,http://localhost:8901/task/update/50,3,0,0
+1603278685471,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-13,,true,,191,210,1,1,http://localhost:8901/task/delete/49,0,0,0
+1603278685474,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-13,,true,,191,211,1,1,http://localhost:8901/tlist/delete/49,0,0,0
+1603278685477,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-13,,true,,191,211,1,1,http://localhost:8901/tlist/delete/50,0,0,0
+1603278685480,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-13,text,true,,304,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278685482,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-13,text,true,,305,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278685485,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-13,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278685488,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-13,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278685490,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-13,text,true,,359,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278685493,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-13,text,true,,312,303,1,1,http://localhost:8901/task/update/51,2,0,0
+1603278685496,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-13,text,true,,317,309,1,1,http://localhost:8901/task/update/52,3,0,0
+1603278685500,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-13,,true,,191,210,1,1,http://localhost:8901/task/delete/51,0,0,0
+1603278685503,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-13,,true,,191,211,1,1,http://localhost:8901/tlist/delete/51,0,0,0
+1603278685507,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-13,,true,,191,211,1,1,http://localhost:8901/tlist/delete/52,0,0,0
+1603278685554,7,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-14,text,true,,304,238,1,1,http://localhost:8901/tlist/create,7,0,1
+1603278685562,6,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-14,text,true,,305,239,1,1,http://localhost:8901/tlist/create,6,0,0
+1603278685569,5,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-14,text,true,,309,301,1,1,http://localhost:8901/task/create,5,0,0
+1603278685575,5,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-14,text,true,,309,301,1,1,http://localhost:8901/task/create,5,0,0
+1603278685581,6,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-14,text,true,,359,183,1,1,http://localhost:8901/task/read,6,0,0
+1603278685588,7,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-14,text,true,,312,303,1,1,http://localhost:8901/task/update/53,7,0,0
+1603278685596,7,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-14,text,true,,317,309,1,1,http://localhost:8901/task/update/54,6,0,0
+1603278685603,8,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-14,,true,,191,210,1,1,http://localhost:8901/task/delete/53,0,0,0
+1603278685612,10,HTTP Request-DelList,204,,TaskList CRUD tests load 1-14,,true,,191,211,1,1,http://localhost:8901/tlist/delete/53,0,0,0
+1603278685623,8,HTTP Request-DelList,204,,TaskList CRUD tests load 1-14,,true,,191,211,1,1,http://localhost:8901/tlist/delete/54,0,0,0
+1603278685631,4,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-14,text,true,,304,238,1,1,http://localhost:8901/tlist/create,4,0,0
+1603278685635,3,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-14,text,true,,305,239,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278685639,3,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-14,text,true,,309,301,1,1,http://localhost:8901/task/create,3,0,0
+1603278685643,4,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-14,text,true,,309,301,1,1,http://localhost:8901/task/create,3,0,0
+1603278685648,3,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-14,text,true,,359,183,2,2,http://localhost:8901/task/read,3,0,0
+1603278685649,6,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-15,text,true,,304,238,2,2,http://localhost:8901/tlist/create,5,0,1
+1603278685652,6,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-14,text,true,,312,303,2,2,http://localhost:8901/task/update/55,5,0,0
+1603278685655,5,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-15,text,true,,305,239,2,2,http://localhost:8901/tlist/create,5,0,0
+1603278685658,4,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-14,text,true,,317,309,2,2,http://localhost:8901/task/update/56,3,0,0
+1603278685660,3,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-15,text,true,,309,301,2,2,http://localhost:8901/task/create,3,0,0
+1603278685662,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-14,,true,,191,210,2,2,http://localhost:8901/task/delete/55,0,0,0
+1603278685663,3,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-15,text,true,,309,301,2,2,http://localhost:8901/task/create,2,0,0
+1603278685666,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-15,text,true,,415,183,2,2,http://localhost:8901/task/read,2,0,0
+1603278685666,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-14,,true,,191,211,2,2,http://localhost:8901/tlist/delete/55,0,0,0
+1603278685669,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-15,text,true,,312,303,2,2,http://localhost:8901/task/update/57,3,0,0
+1603278685670,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-14,,true,,191,211,2,2,http://localhost:8901/tlist/delete/56,0,0,0
+1603278685673,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-15,text,true,,317,309,1,1,http://localhost:8901/task/update/58,3,0,0
+1603278685677,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-15,,true,,191,210,1,1,http://localhost:8901/task/delete/57,0,0,0
+1603278685680,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-15,,true,,191,211,1,1,http://localhost:8901/tlist/delete/57,0,0,0
+1603278685684,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-15,,true,,191,211,1,1,http://localhost:8901/tlist/delete/58,0,0,0
+1603278685687,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-15,text,true,,304,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278685690,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-15,text,true,,305,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278685692,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-15,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278685694,3,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-15,text,true,,309,301,1,1,http://localhost:8901/task/create,3,0,0
+1603278685697,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-15,text,true,,359,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278685700,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-15,text,true,,312,303,1,1,http://localhost:8901/task/update/59,2,0,0
+1603278685702,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-15,text,true,,317,309,1,1,http://localhost:8901/task/update/60,3,0,0
+1603278685705,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-15,,true,,191,210,1,1,http://localhost:8901/task/delete/59,0,0,0
+1603278685708,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-15,,true,,191,211,1,1,http://localhost:8901/tlist/delete/59,0,0,0
+1603278685712,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-15,,true,,191,211,1,1,http://localhost:8901/tlist/delete/60,0,0,0
+1603278685748,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-16,text,true,,304,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278685750,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-16,text,true,,305,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278685752,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-16,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278685754,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-16,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278685756,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-16,text,true,,359,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278685758,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-16,text,true,,312,303,1,1,http://localhost:8901/task/update/61,2,0,0
+1603278685761,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-16,text,true,,317,309,1,1,http://localhost:8901/task/update/62,2,0,0
+1603278685763,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-16,,true,,191,210,1,1,http://localhost:8901/task/delete/61,0,0,0
+1603278685766,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-16,,true,,191,211,1,1,http://localhost:8901/tlist/delete/61,0,0,0
+1603278685769,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-16,,true,,191,211,1,1,http://localhost:8901/tlist/delete/62,0,0,0
+1603278685772,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-16,text,true,,304,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278685774,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-16,text,true,,305,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278685777,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-16,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278685779,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-16,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278685781,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-16,text,true,,359,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278685783,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-16,text,true,,312,303,1,1,http://localhost:8901/task/update/63,3,0,0
+1603278685786,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-16,text,true,,317,309,1,1,http://localhost:8901/task/update/64,3,0,0
+1603278685789,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-16,,true,,191,210,1,1,http://localhost:8901/task/delete/63,0,0,0
+1603278685792,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-16,,true,,191,211,1,1,http://localhost:8901/tlist/delete/63,0,0,0
+1603278685795,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-16,,true,,191,211,1,1,http://localhost:8901/tlist/delete/64,0,0,0
+1603278685850,5,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-17,text,true,,304,238,1,1,http://localhost:8901/tlist/create,4,0,1
+1603278685855,4,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-17,text,true,,305,239,1,1,http://localhost:8901/tlist/create,4,0,0
+1603278685859,6,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-17,text,true,,309,301,1,1,http://localhost:8901/task/create,5,0,0
+1603278685865,5,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-17,text,true,,309,301,1,1,http://localhost:8901/task/create,4,0,0
+1603278685872,11,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-17,text,true,,359,183,1,1,http://localhost:8901/task/read,11,0,0
+1603278685884,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-17,text,true,,312,303,1,1,http://localhost:8901/task/update/65,3,0,0
+1603278685887,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-17,text,true,,317,309,1,1,http://localhost:8901/task/update/66,3,0,0
+1603278685890,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-17,,true,,191,210,1,1,http://localhost:8901/task/delete/65,0,0,0
+1603278685894,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-17,,true,,191,211,1,1,http://localhost:8901/tlist/delete/65,0,0,0
+1603278685897,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-17,,true,,191,211,1,1,http://localhost:8901/tlist/delete/66,0,0,0
+1603278685900,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-17,text,true,,304,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278685902,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-17,text,true,,305,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278685904,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-17,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278685907,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-17,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278685909,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-17,text,true,,359,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278685911,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-17,text,true,,312,303,1,1,http://localhost:8901/task/update/67,3,0,0
+1603278685914,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-17,text,true,,317,309,1,1,http://localhost:8901/task/update/68,2,0,0
+1603278685917,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-17,,true,,191,210,1,1,http://localhost:8901/task/delete/67,0,0,0
+1603278685919,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-17,,true,,191,211,1,1,http://localhost:8901/tlist/delete/67,0,0,0
+1603278685922,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-17,,true,,191,211,1,1,http://localhost:8901/tlist/delete/68,0,0,0
+1603278685948,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-18,text,true,,304,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278685951,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-18,text,true,,305,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278685953,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-18,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278685955,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-18,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278685958,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-18,text,true,,359,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278685960,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-18,text,true,,312,303,1,1,http://localhost:8901/task/update/69,2,0,0
+1603278685963,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-18,text,true,,317,309,1,1,http://localhost:8901/task/update/70,2,0,0
+1603278685965,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-18,,true,,191,210,1,1,http://localhost:8901/task/delete/69,0,0,0
+1603278685969,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-18,,true,,191,211,1,1,http://localhost:8901/tlist/delete/69,0,0,0
+1603278685972,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-18,,true,,191,211,1,1,http://localhost:8901/tlist/delete/70,0,0,0
+1603278685975,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-18,text,true,,304,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278685977,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-18,text,true,,305,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278685979,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-18,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278685981,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-18,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278685983,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-18,text,true,,359,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278685985,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-18,text,true,,312,303,1,1,http://localhost:8901/task/update/71,3,0,0
+1603278685988,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-18,text,true,,317,309,1,1,http://localhost:8901/task/update/72,2,0,0
+1603278685990,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-18,,true,,191,210,1,1,http://localhost:8901/task/delete/71,0,0,0
+1603278685993,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-18,,true,,191,211,1,1,http://localhost:8901/tlist/delete/71,0,0,0
+1603278685996,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-18,,true,,191,211,1,1,http://localhost:8901/tlist/delete/72,0,0,0
+1603278686048,4,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-19,text,true,,304,238,1,1,http://localhost:8901/tlist/create,4,0,0
+1603278686053,4,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-19,text,true,,305,239,1,1,http://localhost:8901/tlist/create,4,0,0
+1603278686058,4,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-19,text,true,,309,301,1,1,http://localhost:8901/task/create,3,0,0
+1603278686062,6,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-19,text,true,,309,301,1,1,http://localhost:8901/task/create,5,0,0
+1603278686068,5,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-19,text,true,,359,183,1,1,http://localhost:8901/task/read,5,0,0
+1603278686074,6,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-19,text,true,,312,303,1,1,http://localhost:8901/task/update/73,6,0,0
+1603278686080,4,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-19,text,true,,317,309,1,1,http://localhost:8901/task/update/74,4,0,0
+1603278686084,4,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-19,,true,,191,210,1,1,http://localhost:8901/task/delete/73,0,0,0
+1603278686088,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-19,,true,,191,211,1,1,http://localhost:8901/tlist/delete/73,0,0,0
+1603278686092,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-19,,true,,191,211,1,1,http://localhost:8901/tlist/delete/74,0,0,0
+1603278686095,4,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-19,text,true,,304,238,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278686099,3,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-19,text,true,,305,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278686102,3,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-19,text,true,,309,301,1,1,http://localhost:8901/task/create,3,0,0
+1603278686105,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-19,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278686108,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-19,text,true,,359,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278686110,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-19,text,true,,312,303,1,1,http://localhost:8901/task/update/75,2,0,0
+1603278686113,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-19,text,true,,317,309,1,1,http://localhost:8901/task/update/76,2,0,0
+1603278686115,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-19,,true,,191,210,1,1,http://localhost:8901/task/delete/75,0,0,0
+1603278686118,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-19,,true,,191,211,1,1,http://localhost:8901/tlist/delete/75,0,0,0
+1603278686121,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-19,,true,,191,211,1,1,http://localhost:8901/tlist/delete/76,0,0,0
+1603278686151,3,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-20,text,true,,304,238,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278686154,3,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-20,text,true,,305,239,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278686157,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-20,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278686160,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-20,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278686163,3,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-20,text,true,,359,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278686166,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-20,text,true,,312,303,1,1,http://localhost:8901/task/update/77,3,0,0
+1603278686170,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-20,text,true,,317,309,1,1,http://localhost:8901/task/update/78,2,0,0
+1603278686173,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-20,,true,,191,210,1,1,http://localhost:8901/task/delete/77,0,0,0
+1603278686176,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-20,,true,,191,211,1,1,http://localhost:8901/tlist/delete/77,0,0,0
+1603278686179,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-20,,true,,191,211,1,1,http://localhost:8901/tlist/delete/78,0,0,0
+1603278686182,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-20,text,true,,304,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278686185,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-20,text,true,,305,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278686187,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-20,text,true,,309,301,1,1,http://localhost:8901/task/create,1,0,0
+1603278686189,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-20,text,true,,309,301,1,1,http://localhost:8901/task/create,1,0,0
+1603278686191,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-20,text,true,,359,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278686193,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-20,text,true,,312,303,1,1,http://localhost:8901/task/update/79,2,0,0
+1603278686195,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-20,text,true,,317,309,1,1,http://localhost:8901/task/update/80,2,0,0
+1603278686197,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-20,,true,,191,210,1,1,http://localhost:8901/task/delete/79,0,0,0
+1603278686200,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-20,,true,,191,211,1,1,http://localhost:8901/tlist/delete/79,0,0,0
+1603278686203,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-20,,true,,191,211,1,1,http://localhost:8901/tlist/delete/80,0,0,0
+1603278686255,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-21,text,true,,304,238,1,1,http://localhost:8901/tlist/create,2,0,1
+1603278686258,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-21,text,true,,305,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278686260,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-21,text,true,,309,301,1,1,http://localhost:8901/task/create,1,0,0
+1603278686261,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-21,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278686263,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-21,text,true,,359,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278686265,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-21,text,true,,312,303,1,1,http://localhost:8901/task/update/81,3,0,0
+1603278686268,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-21,text,true,,317,309,1,1,http://localhost:8901/task/update/82,3,0,0
+1603278686271,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-21,,true,,191,210,1,1,http://localhost:8901/task/delete/81,0,0,0
+1603278686274,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-21,,true,,191,211,1,1,http://localhost:8901/tlist/delete/81,0,0,0
+1603278686277,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-21,,true,,191,211,1,1,http://localhost:8901/tlist/delete/82,0,0,0
+1603278686280,1,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-21,text,true,,304,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278686282,3,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-21,text,true,,305,239,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278686285,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-21,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278686287,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-21,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278686290,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-21,text,true,,359,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278686293,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-21,text,true,,312,303,1,1,http://localhost:8901/task/update/83,2,0,0
+1603278686295,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-21,text,true,,317,309,1,1,http://localhost:8901/task/update/84,3,0,0
+1603278686299,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-21,,true,,191,210,1,1,http://localhost:8901/task/delete/83,0,0,0
+1603278686301,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-21,,true,,191,211,1,1,http://localhost:8901/tlist/delete/83,0,0,0
+1603278686305,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-21,,true,,191,211,1,1,http://localhost:8901/tlist/delete/84,0,0,0
+1603278686352,6,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-22,text,true,,304,238,1,1,http://localhost:8901/tlist/create,6,0,2
+1603278686359,5,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-22,text,true,,305,239,1,1,http://localhost:8901/tlist/create,5,0,0
+1603278686365,4,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-22,text,true,,309,301,1,1,http://localhost:8901/task/create,4,0,0
+1603278686370,4,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-22,text,true,,309,301,1,1,http://localhost:8901/task/create,4,0,0
+1603278686375,5,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-22,text,true,,359,183,1,1,http://localhost:8901/task/read,5,0,0
+1603278686381,4,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-22,text,true,,312,303,1,1,http://localhost:8901/task/update/85,3,0,0
+1603278686385,7,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-22,text,true,,317,309,1,1,http://localhost:8901/task/update/86,7,0,0
+1603278686392,4,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-22,,true,,191,210,1,1,http://localhost:8901/task/delete/85,0,0,0
+1603278686396,5,HTTP Request-DelList,204,,TaskList CRUD tests load 1-22,,true,,191,211,1,1,http://localhost:8901/tlist/delete/85,0,0,0
+1603278686401,6,HTTP Request-DelList,204,,TaskList CRUD tests load 1-22,,true,,191,211,1,1,http://localhost:8901/tlist/delete/86,0,0,0
+1603278686407,3,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-22,text,true,,304,238,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278686410,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-22,text,true,,305,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278686412,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-22,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278686414,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-22,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278686416,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-22,text,true,,359,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278686418,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-22,text,true,,312,303,1,1,http://localhost:8901/task/update/87,2,0,0
+1603278686420,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-22,text,true,,317,309,1,1,http://localhost:8901/task/update/88,2,0,0
+1603278686422,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-22,,true,,191,210,1,1,http://localhost:8901/task/delete/87,0,0,0
+1603278686425,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-22,,true,,191,211,1,1,http://localhost:8901/tlist/delete/87,0,0,0
+1603278686427,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-22,,true,,191,211,1,1,http://localhost:8901/tlist/delete/88,0,0,0
+1603278686450,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-23,text,true,,304,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278686452,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-23,text,true,,305,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278686454,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-23,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278686456,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-23,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278686458,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-23,text,true,,359,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278686460,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-23,text,true,,312,303,1,1,http://localhost:8901/task/update/89,2,0,0
+1603278686462,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-23,text,true,,317,309,1,1,http://localhost:8901/task/update/90,2,0,0
+1603278686464,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-23,,true,,191,210,1,1,http://localhost:8901/task/delete/89,0,0,0
+1603278686467,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-23,,true,,191,211,1,1,http://localhost:8901/tlist/delete/89,0,0,0
+1603278686469,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-23,,true,,191,211,1,1,http://localhost:8901/tlist/delete/90,0,0,0
+1603278686473,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-23,text,true,,304,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278686475,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-23,text,true,,305,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278686477,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-23,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278686479,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-23,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278686481,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-23,text,true,,359,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278686483,4,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-23,text,true,,312,303,1,1,http://localhost:8901/task/update/91,3,0,0
+1603278686487,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-23,text,true,,317,309,1,1,http://localhost:8901/task/update/92,2,0,0
+1603278686490,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-23,,true,,191,210,1,1,http://localhost:8901/task/delete/91,0,0,0
+1603278686492,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-23,,true,,191,211,1,1,http://localhost:8901/tlist/delete/91,0,0,0
+1603278686495,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-23,,true,,191,211,1,1,http://localhost:8901/tlist/delete/92,0,0,0
+1603278686553,11,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-24,text,true,,304,238,1,1,http://localhost:8901/tlist/create,11,0,6
+1603278686565,7,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-24,text,true,,305,239,1,1,http://localhost:8901/tlist/create,6,0,0
+1603278686573,5,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-24,text,true,,309,301,1,1,http://localhost:8901/task/create,5,0,0
+1603278686579,5,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-24,text,true,,309,301,1,1,http://localhost:8901/task/create,5,0,0
+1603278686585,6,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-24,text,true,,359,183,1,1,http://localhost:8901/task/read,5,0,0
+1603278686591,4,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-24,text,true,,312,303,1,1,http://localhost:8901/task/update/93,4,0,0
+1603278686595,4,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-24,text,true,,317,309,1,1,http://localhost:8901/task/update/94,4,0,0
+1603278686599,4,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-24,,true,,191,210,1,1,http://localhost:8901/task/delete/93,0,0,0
+1603278686603,5,HTTP Request-DelList,204,,TaskList CRUD tests load 1-24,,true,,191,211,1,1,http://localhost:8901/tlist/delete/93,0,0,0
+1603278686608,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-24,,true,,191,211,1,1,http://localhost:8901/tlist/delete/94,0,0,0
+1603278686613,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-24,text,true,,304,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278686616,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-24,text,true,,305,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278686618,3,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-24,text,true,,309,301,1,1,http://localhost:8901/task/create,3,0,0
+1603278686621,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-24,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278686623,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-24,text,true,,359,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278686625,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-24,text,true,,312,303,1,1,http://localhost:8901/task/update/95,2,0,0
+1603278686627,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-24,text,true,,317,309,1,1,http://localhost:8901/task/update/96,3,0,0
+1603278686630,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-24,,true,,191,210,1,1,http://localhost:8901/task/delete/95,0,0,0
+1603278686632,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-24,,true,,191,211,1,1,http://localhost:8901/tlist/delete/95,0,0,0
+1603278686636,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-24,,true,,191,211,1,1,http://localhost:8901/tlist/delete/96,0,0,0
+1603278686659,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-25,text,true,,304,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278686662,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-25,text,true,,305,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278686664,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-25,text,true,,309,301,1,1,http://localhost:8901/task/create,1,0,0
+1603278686666,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-25,text,true,,309,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278686668,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-25,text,true,,359,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278686670,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-25,text,true,,312,303,1,1,http://localhost:8901/task/update/97,3,0,0
+1603278686673,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-25,text,true,,317,309,1,1,http://localhost:8901/task/update/98,3,0,0
+1603278686676,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-25,,true,,191,210,1,1,http://localhost:8901/task/delete/97,0,0,0
+1603278686678,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-25,,true,,191,211,1,1,http://localhost:8901/tlist/delete/97,0,0,0
+1603278686681,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-25,,true,,191,211,1,1,http://localhost:8901/tlist/delete/98,0,0,0
+1603278686684,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-25,text,true,,304,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278686686,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-25,text,true,,306,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278686688,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-25,text,true,,309,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278686690,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-25,text,true,,310,301,1,1,http://localhost:8901/task/create,2,0,0
+1603278686692,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-25,text,true,,360,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278686694,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-25,text,true,,312,303,1,1,http://localhost:8901/task/update/99,3,0,0
+1603278686697,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-25,text,true,,318,311,1,1,http://localhost:8901/task/update/100,2,0,0
+1603278686700,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-25,,true,,191,210,1,1,http://localhost:8901/task/delete/99,0,0,0
+1603278686702,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-25,,true,,191,211,1,1,http://localhost:8901/tlist/delete/99,0,0,0
+1603278686705,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-25,,true,,191,212,1,1,http://localhost:8901/tlist/delete/100,0,0,0
+1603278686757,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-26,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278686759,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-26,text,true,,306,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278686761,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-26,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278686763,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-26,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278686765,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-26,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278686768,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-26,text,true,,313,305,1,1,http://localhost:8901/task/update/101,2,0,0
+1603278686771,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-26,text,true,,318,311,1,1,http://localhost:8901/task/update/102,2,0,0
+1603278686774,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-26,,true,,191,211,1,1,http://localhost:8901/task/delete/101,0,0,0
+1603278686777,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-26,,true,,191,212,1,1,http://localhost:8901/tlist/delete/101,0,0,0
+1603278686780,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-26,,true,,191,212,1,1,http://localhost:8901/tlist/delete/102,0,0,0
+1603278686783,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-26,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278686785,4,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-26,text,true,,306,239,1,1,http://localhost:8901/tlist/create,4,0,0
+1603278686790,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-26,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278686792,3,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-26,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278686796,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-26,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278686798,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-26,text,true,,313,305,1,1,http://localhost:8901/task/update/103,2,0,0
+1603278686800,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-26,text,true,,318,311,1,1,http://localhost:8901/task/update/104,2,0,0
+1603278686803,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-26,,true,,191,211,1,1,http://localhost:8901/task/delete/103,0,0,0
+1603278686806,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-26,,true,,191,212,1,1,http://localhost:8901/tlist/delete/103,0,0,0
+1603278686809,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-26,,true,,191,212,1,1,http://localhost:8901/tlist/delete/104,0,0,0
+1603278686857,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-27,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,1
+1603278686860,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-27,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278686862,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-27,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278686864,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-27,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278686866,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-27,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278686869,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-27,text,true,,313,305,1,1,http://localhost:8901/task/update/105,2,0,0
+1603278686871,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-27,text,true,,318,311,1,1,http://localhost:8901/task/update/106,2,0,0
+1603278686874,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-27,,true,,191,211,1,1,http://localhost:8901/task/delete/105,0,0,0
+1603278686876,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-27,,true,,191,212,1,1,http://localhost:8901/tlist/delete/105,0,0,0
+1603278686879,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-27,,true,,191,212,1,1,http://localhost:8901/tlist/delete/106,0,0,0
+1603278686881,1,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-27,text,true,,305,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278686883,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-27,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278686884,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-27,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278686886,3,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-27,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278686889,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-27,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278686891,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-27,text,true,,313,305,1,1,http://localhost:8901/task/update/107,2,0,0
+1603278686893,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-27,text,true,,318,311,1,1,http://localhost:8901/task/update/108,2,0,0
+1603278686895,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-27,,true,,191,211,1,1,http://localhost:8901/task/delete/107,0,0,0
+1603278686898,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-27,,true,,191,212,1,1,http://localhost:8901/tlist/delete/107,0,0,0
+1603278686901,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-27,,true,,191,212,1,1,http://localhost:8901/tlist/delete/108,0,0,0
+1603278686957,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-28,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278686960,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-28,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278686961,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-28,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278686963,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-28,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278686965,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-28,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278686967,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-28,text,true,,313,305,1,1,http://localhost:8901/task/update/109,2,0,0
+1603278686970,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-28,text,true,,318,311,1,1,http://localhost:8901/task/update/110,2,0,0
+1603278686972,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-28,,true,,191,211,1,1,http://localhost:8901/task/delete/109,0,0,0
+1603278686975,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-28,,true,,191,212,1,1,http://localhost:8901/tlist/delete/109,0,0,0
+1603278686977,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-28,,true,,191,212,1,1,http://localhost:8901/tlist/delete/110,0,0,0
+1603278686979,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-28,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278686981,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-28,text,true,,306,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278686983,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-28,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278686985,3,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-28,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278686988,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-28,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278686990,1,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-28,text,true,,313,305,1,1,http://localhost:8901/task/update/111,1,0,0
+1603278686992,1,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-28,text,true,,318,311,1,1,http://localhost:8901/task/update/112,1,0,0
+1603278686993,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-28,,true,,191,211,1,1,http://localhost:8901/task/delete/111,0,0,0
+1603278686995,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-28,,true,,191,212,1,1,http://localhost:8901/tlist/delete/111,0,0,0
+1603278686997,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-28,,true,,191,212,1,1,http://localhost:8901/tlist/delete/112,0,0,0
+1603278687062,7,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-29,text,true,,305,238,1,1,http://localhost:8901/tlist/create,6,0,1
+1603278687069,5,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-29,text,true,,306,239,1,1,http://localhost:8901/tlist/create,5,0,0
+1603278687075,5,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-29,text,true,,310,302,1,1,http://localhost:8901/task/create,4,0,0
+1603278687080,5,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-29,text,true,,310,302,1,1,http://localhost:8901/task/create,5,0,0
+1603278687086,5,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-29,text,true,,361,183,1,1,http://localhost:8901/task/read,5,0,0
+1603278687092,6,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-29,text,true,,313,305,1,1,http://localhost:8901/task/update/113,6,0,0
+1603278687099,4,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-29,text,true,,318,311,1,1,http://localhost:8901/task/update/114,4,0,0
+1603278687103,4,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-29,,true,,191,211,1,1,http://localhost:8901/task/delete/113,0,0,0
+1603278687108,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-29,,true,,191,212,1,1,http://localhost:8901/tlist/delete/113,0,0,0
+1603278687112,5,HTTP Request-DelList,204,,TaskList CRUD tests load 1-29,,true,,191,212,1,1,http://localhost:8901/tlist/delete/114,0,0,0
+1603278687117,4,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-29,text,true,,305,238,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278687121,3,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-29,text,true,,306,239,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278687125,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-29,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278687128,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-29,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278687130,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-29,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278687132,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-29,text,true,,313,305,1,1,http://localhost:8901/task/update/115,2,0,0
+1603278687134,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-29,text,true,,318,311,1,1,http://localhost:8901/task/update/116,2,0,0
+1603278687136,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-29,,true,,191,211,1,1,http://localhost:8901/task/delete/115,0,0,0
+1603278687138,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-29,,true,,191,212,1,1,http://localhost:8901/tlist/delete/115,0,0,0
+1603278687141,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-29,,true,,191,212,1,1,http://localhost:8901/tlist/delete/116,0,0,0
+1603278687157,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-30,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278687159,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-30,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278687161,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-30,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278687162,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-30,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278687163,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-30,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278687165,1,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-30,text,true,,313,305,1,1,http://localhost:8901/task/update/117,1,0,0
+1603278687167,1,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-30,text,true,,318,311,1,1,http://localhost:8901/task/update/118,1,0,0
+1603278687168,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-30,,true,,191,211,1,1,http://localhost:8901/task/delete/117,0,0,0
+1603278687171,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-30,,true,,191,212,1,1,http://localhost:8901/tlist/delete/117,0,0,0
+1603278687173,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-30,,true,,191,212,1,1,http://localhost:8901/tlist/delete/118,0,0,0
+1603278687175,1,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-30,text,true,,305,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278687176,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-30,text,true,,306,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278687178,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-30,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278687179,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-30,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278687181,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-30,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278687182,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-30,text,true,,313,305,1,1,http://localhost:8901/task/update/119,2,0,0
+1603278687184,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-30,text,true,,318,311,1,1,http://localhost:8901/task/update/120,2,0,0
+1603278687186,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-30,,true,,191,211,1,1,http://localhost:8901/task/delete/119,0,0,0
+1603278687189,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-30,,true,,191,212,1,1,http://localhost:8901/tlist/delete/119,0,0,0
+1603278687191,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-30,,true,,191,212,1,1,http://localhost:8901/tlist/delete/120,0,0,0
+1603278687261,3,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-31,text,true,,305,238,1,1,http://localhost:8901/tlist/create,3,0,1
+1603278687264,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-31,text,true,,306,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278687266,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-31,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278687269,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-31,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278687271,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-31,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278687273,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-31,text,true,,313,305,1,1,http://localhost:8901/task/update/121,2,0,0
+1603278687275,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-31,text,true,,318,311,1,1,http://localhost:8901/task/update/122,3,0,0
+1603278687278,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-31,,true,,191,211,1,1,http://localhost:8901/task/delete/121,0,0,0
+1603278687281,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-31,,true,,191,212,1,1,http://localhost:8901/tlist/delete/121,0,0,0
+1603278687283,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-31,,true,,191,212,1,1,http://localhost:8901/tlist/delete/122,0,0,0
+1603278687285,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-31,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278687287,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-31,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278687289,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-31,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278687290,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-31,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278687292,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-31,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278687293,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-31,text,true,,313,305,1,1,http://localhost:8901/task/update/123,2,0,0
+1603278687295,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-31,text,true,,318,311,1,1,http://localhost:8901/task/update/124,2,0,0
+1603278687297,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-31,,true,,191,211,1,1,http://localhost:8901/task/delete/123,0,0,0
+1603278687299,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-31,,true,,191,212,1,1,http://localhost:8901/tlist/delete/123,0,0,0
+1603278687302,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-31,,true,,191,212,1,1,http://localhost:8901/tlist/delete/124,0,0,0
+1603278687354,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-32,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,1
+1603278687356,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-32,text,true,,306,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278687358,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-32,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278687360,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-32,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278687362,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-32,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278687364,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-32,text,true,,313,305,1,1,http://localhost:8901/task/update/125,2,0,0
+1603278687366,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-32,text,true,,318,311,1,1,http://localhost:8901/task/update/126,2,0,0
+1603278687368,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-32,,true,,191,211,1,1,http://localhost:8901/task/delete/125,0,0,0
+1603278687371,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-32,,true,,191,212,1,1,http://localhost:8901/tlist/delete/125,0,0,0
+1603278687373,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-32,,true,,191,212,1,1,http://localhost:8901/tlist/delete/126,0,0,0
+1603278687375,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-32,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278687377,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-32,text,true,,306,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278687379,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-32,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278687381,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-32,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278687382,3,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-32,text,true,,361,183,1,1,http://localhost:8901/task/read,3,0,0
+1603278687385,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-32,text,true,,313,305,1,1,http://localhost:8901/task/update/127,2,0,0
+1603278687388,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-32,text,true,,318,311,1,1,http://localhost:8901/task/update/128,2,0,0
+1603278687390,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-32,,true,,191,211,1,1,http://localhost:8901/task/delete/127,0,0,0
+1603278687392,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-32,,true,,191,212,1,1,http://localhost:8901/tlist/delete/127,0,0,0
+1603278687394,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-32,,true,,191,212,1,1,http://localhost:8901/tlist/delete/128,0,0,0
+1603278687453,3,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-33,text,true,,305,238,1,1,http://localhost:8901/tlist/create,3,0,1
+1603278687457,12,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-33,text,true,,306,239,1,1,http://localhost:8901/tlist/create,12,0,0
+1603278687469,4,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-33,text,true,,310,302,1,1,http://localhost:8901/task/create,4,0,0
+1603278687474,8,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-33,text,true,,310,302,1,1,http://localhost:8901/task/create,8,0,0
+1603278687482,4,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-33,text,true,,361,183,1,1,http://localhost:8901/task/read,3,0,0
+1603278687486,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-33,text,true,,313,305,1,1,http://localhost:8901/task/update/129,2,0,0
+1603278687488,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-33,text,true,,318,311,1,1,http://localhost:8901/task/update/130,2,0,0
+1603278687490,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-33,,true,,191,211,1,1,http://localhost:8901/task/delete/129,0,0,0
+1603278687493,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-33,,true,,191,212,1,1,http://localhost:8901/tlist/delete/129,0,0,0
+1603278687495,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-33,,true,,191,212,1,1,http://localhost:8901/tlist/delete/130,0,0,0
+1603278687498,1,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-33,text,true,,305,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278687499,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-33,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278687500,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-33,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278687502,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-33,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278687504,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-33,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278687505,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-33,text,true,,313,305,1,1,http://localhost:8901/task/update/131,2,0,0
+1603278687507,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-33,text,true,,318,311,1,1,http://localhost:8901/task/update/132,2,0,0
+1603278687509,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-33,,true,,191,211,1,1,http://localhost:8901/task/delete/131,0,0,0
+1603278687511,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-33,,true,,191,212,1,1,http://localhost:8901/tlist/delete/131,0,0,0
+1603278687513,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-33,,true,,191,212,1,1,http://localhost:8901/tlist/delete/132,0,0,0
+1603278687555,6,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-34,text,true,,305,238,1,1,http://localhost:8901/tlist/create,6,0,1
+1603278687561,5,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-34,text,true,,306,239,1,1,http://localhost:8901/tlist/create,5,0,0
+1603278687566,5,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-34,text,true,,310,302,1,1,http://localhost:8901/task/create,4,0,0
+1603278687571,4,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-34,text,true,,310,302,1,1,http://localhost:8901/task/create,4,0,0
+1603278687576,5,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-34,text,true,,361,183,1,1,http://localhost:8901/task/read,5,0,0
+1603278687581,6,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-34,text,true,,313,305,1,1,http://localhost:8901/task/update/133,5,0,0
+1603278687588,5,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-34,text,true,,318,311,1,1,http://localhost:8901/task/update/134,5,0,0
+1603278687594,6,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-34,,true,,191,211,1,1,http://localhost:8901/task/delete/133,0,0,0
+1603278687601,7,HTTP Request-DelList,204,,TaskList CRUD tests load 1-34,,true,,191,212,1,1,http://localhost:8901/tlist/delete/133,0,0,0
+1603278687608,5,HTTP Request-DelList,204,,TaskList CRUD tests load 1-34,,true,,191,212,1,1,http://localhost:8901/tlist/delete/134,0,0,0
+1603278687613,3,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-34,text,true,,305,238,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278687616,3,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-34,text,true,,306,239,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278687619,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-34,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278687622,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-34,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278687625,3,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-34,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278687628,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-34,text,true,,313,305,1,1,http://localhost:8901/task/update/135,3,0,0
+1603278687632,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-34,text,true,,318,311,1,1,http://localhost:8901/task/update/136,3,0,0
+1603278687635,4,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-34,,true,,191,211,1,1,http://localhost:8901/task/delete/135,0,0,0
+1603278687639,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-34,,true,,191,212,1,1,http://localhost:8901/tlist/delete/135,0,0,0
+1603278687642,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-34,,true,,191,212,1,1,http://localhost:8901/tlist/delete/136,0,0,0
+1603278687657,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-35,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278687659,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-35,text,true,,306,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278687661,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-35,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278687662,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-35,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278687664,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-35,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278687666,1,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-35,text,true,,313,305,1,1,http://localhost:8901/task/update/137,1,0,0
+1603278687668,1,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-35,text,true,,318,311,1,1,http://localhost:8901/task/update/138,1,0,0
+1603278687670,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-35,,true,,191,211,1,1,http://localhost:8901/task/delete/137,0,0,0
+1603278687672,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-35,,true,,191,212,1,1,http://localhost:8901/tlist/delete/137,0,0,0
+1603278687674,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-35,,true,,191,212,1,1,http://localhost:8901/tlist/delete/138,0,0,0
+1603278687676,1,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-35,text,true,,305,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278687678,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-35,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278687679,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-35,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278687680,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-35,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278687682,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-35,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278687683,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-35,text,true,,313,305,1,1,http://localhost:8901/task/update/139,1,0,0
+1603278687685,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-35,text,true,,318,311,1,1,http://localhost:8901/task/update/140,2,0,0
+1603278687687,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-35,,true,,191,211,1,1,http://localhost:8901/task/delete/139,0,0,0
+1603278687689,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-35,,true,,191,212,1,1,http://localhost:8901/tlist/delete/139,0,0,0
+1603278687692,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-35,,true,,191,212,1,1,http://localhost:8901/tlist/delete/140,0,0,0
+1603278687768,5,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-36,text,true,,305,238,1,1,http://localhost:8901/tlist/create,5,0,1
+1603278687774,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-36,text,true,,306,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278687777,3,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-36,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278687780,3,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-36,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278687784,3,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-36,text,true,,361,183,1,1,http://localhost:8901/task/read,3,0,0
+1603278687788,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-36,text,true,,313,305,1,1,http://localhost:8901/task/update/141,3,0,0
+1603278687792,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-36,text,true,,318,311,1,1,http://localhost:8901/task/update/142,3,0,0
+1603278687796,4,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-36,,true,,191,211,1,1,http://localhost:8901/task/delete/141,0,0,0
+1603278687800,5,HTTP Request-DelList,204,,TaskList CRUD tests load 1-36,,true,,191,212,1,1,http://localhost:8901/tlist/delete/141,0,0,0
+1603278687806,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-36,,true,,191,212,1,1,http://localhost:8901/tlist/delete/142,0,0,0
+1603278687811,3,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-36,text,true,,305,238,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278687814,3,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-36,text,true,,306,239,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278687817,4,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-36,text,true,,310,302,1,1,http://localhost:8901/task/create,4,0,0
+1603278687822,3,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-36,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278687825,3,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-36,text,true,,361,183,1,1,http://localhost:8901/task/read,3,0,0
+1603278687829,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-36,text,true,,313,305,1,1,http://localhost:8901/task/update/143,3,0,0
+1603278687833,4,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-36,text,true,,318,311,1,1,http://localhost:8901/task/update/144,4,0,0
+1603278687837,4,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-36,,true,,191,211,1,1,http://localhost:8901/task/delete/143,0,0,0
+1603278687842,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-36,,true,,191,212,1,1,http://localhost:8901/tlist/delete/143,0,0,0
+1603278687846,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-36,,true,,191,212,1,1,http://localhost:8901/tlist/delete/144,0,0,0
+1603278687854,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-37,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278687856,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-37,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278687858,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-37,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278687859,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-37,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278687861,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-37,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278687862,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-37,text,true,,313,305,1,1,http://localhost:8901/task/update/145,2,0,0
+1603278687865,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-37,text,true,,318,311,1,1,http://localhost:8901/task/update/146,2,0,0
+1603278687867,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-37,,true,,191,211,1,1,http://localhost:8901/task/delete/145,0,0,0
+1603278687870,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-37,,true,,191,212,1,1,http://localhost:8901/tlist/delete/145,0,0,0
+1603278687873,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-37,,true,,191,212,1,1,http://localhost:8901/tlist/delete/146,0,0,0
+1603278687875,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-37,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278687877,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-37,text,true,,306,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278687879,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-37,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278687881,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-37,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278687883,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-37,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278687885,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-37,text,true,,313,305,1,1,http://localhost:8901/task/update/147,1,0,0
+1603278687887,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-37,text,true,,318,311,1,1,http://localhost:8901/task/update/148,2,0,0
+1603278687889,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-37,,true,,191,211,1,1,http://localhost:8901/task/delete/147,0,0,0
+1603278687892,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-37,,true,,191,212,1,1,http://localhost:8901/tlist/delete/147,0,0,0
+1603278687894,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-37,,true,,191,212,1,1,http://localhost:8901/tlist/delete/148,0,0,0
+1603278687964,6,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-38,text,true,,305,238,1,1,http://localhost:8901/tlist/create,5,0,1
+1603278687970,5,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-38,text,true,,306,239,1,1,http://localhost:8901/tlist/create,5,0,0
+1603278687975,4,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-38,text,true,,310,302,1,1,http://localhost:8901/task/create,4,0,0
+1603278687980,4,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-38,text,true,,310,302,1,1,http://localhost:8901/task/create,4,0,0
+1603278687985,6,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-38,text,true,,361,183,1,1,http://localhost:8901/task/read,6,0,0
+1603278687992,5,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-38,text,true,,313,305,1,1,http://localhost:8901/task/update/149,5,0,0
+1603278687998,4,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-38,text,true,,318,311,1,1,http://localhost:8901/task/update/150,4,0,0
+1603278688002,4,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-38,,true,,191,211,1,1,http://localhost:8901/task/delete/149,0,0,0
+1603278688006,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-38,,true,,191,212,1,1,http://localhost:8901/tlist/delete/149,0,0,0
+1603278688010,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-38,,true,,191,212,1,1,http://localhost:8901/tlist/delete/150,0,0,0
+1603278688014,3,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-38,text,true,,305,238,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278688017,3,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-38,text,true,,306,239,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278688020,3,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-38,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278688023,3,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-38,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278688026,3,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-38,text,true,,361,183,1,1,http://localhost:8901/task/read,3,0,0
+1603278688030,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-38,text,true,,313,305,1,1,http://localhost:8901/task/update/151,3,0,0
+1603278688033,4,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-38,text,true,,318,311,1,1,http://localhost:8901/task/update/152,4,0,0
+1603278688037,4,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-38,,true,,191,211,1,1,http://localhost:8901/task/delete/151,0,0,0
+1603278688041,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-38,,true,,191,212,1,1,http://localhost:8901/tlist/delete/151,0,0,0
+1603278688046,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-38,,true,,191,212,1,1,http://localhost:8901/tlist/delete/152,0,0,0
+1603278688059,4,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-39,text,true,,305,238,1,1,http://localhost:8901/tlist/create,3,0,2
+1603278688063,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-39,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278688064,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-39,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278688066,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-39,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278688067,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-39,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278688069,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-39,text,true,,313,305,1,1,http://localhost:8901/task/update/153,2,0,0
+1603278688071,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-39,text,true,,318,311,1,1,http://localhost:8901/task/update/154,2,0,0
+1603278688073,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-39,,true,,191,211,1,1,http://localhost:8901/task/delete/153,0,0,0
+1603278688076,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-39,,true,,191,212,1,1,http://localhost:8901/tlist/delete/153,0,0,0
+1603278688078,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-39,,true,,191,212,1,1,http://localhost:8901/tlist/delete/154,0,0,0
+1603278688081,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-39,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278688083,3,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-39,text,true,,306,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278688086,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-39,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278688089,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-39,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278688091,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-39,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278688092,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-39,text,true,,313,305,1,1,http://localhost:8901/task/update/155,2,0,0
+1603278688094,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-39,text,true,,318,311,1,1,http://localhost:8901/task/update/156,2,0,0
+1603278688096,1,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-39,,true,,191,211,1,1,http://localhost:8901/task/delete/155,0,0,0
+1603278688097,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-39,,true,,191,212,1,1,http://localhost:8901/tlist/delete/155,0,0,0
+1603278688099,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-39,,true,,191,212,1,1,http://localhost:8901/tlist/delete/156,0,0,0
+1603278688154,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-40,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,1
+1603278688156,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-40,text,true,,306,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278688158,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-40,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278688160,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-40,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278688161,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-40,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278688163,1,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-40,text,true,,313,305,1,1,http://localhost:8901/task/update/157,1,0,0
+1603278688164,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-40,text,true,,318,311,1,1,http://localhost:8901/task/update/158,1,0,0
+1603278688166,1,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-40,,true,,191,211,1,1,http://localhost:8901/task/delete/157,0,0,0
+1603278688168,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-40,,true,,191,212,1,1,http://localhost:8901/tlist/delete/157,0,0,0
+1603278688169,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-40,,true,,191,212,1,1,http://localhost:8901/tlist/delete/158,0,0,0
+1603278688171,1,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-40,text,true,,305,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278688173,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-40,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278688174,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-40,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278688175,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-40,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278688177,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-40,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278688178,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-40,text,true,,313,305,1,1,http://localhost:8901/task/update/159,2,0,0
+1603278688180,1,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-40,text,true,,318,311,1,1,http://localhost:8901/task/update/160,1,0,0
+1603278688181,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-40,,true,,191,211,1,1,http://localhost:8901/task/delete/159,0,0,0
+1603278688183,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-40,,true,,191,212,1,1,http://localhost:8901/tlist/delete/159,0,0,0
+1603278688185,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-40,,true,,191,212,1,1,http://localhost:8901/tlist/delete/160,0,0,0
+1603278688256,6,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-41,text,true,,305,238,1,1,http://localhost:8901/tlist/create,6,0,2
+1603278688262,4,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-41,text,true,,306,239,1,1,http://localhost:8901/tlist/create,4,0,0
+1603278688267,4,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-41,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278688271,4,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-41,text,true,,310,302,1,1,http://localhost:8901/task/create,4,0,0
+1603278688276,3,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-41,text,true,,361,183,1,1,http://localhost:8901/task/read,3,0,0
+1603278688280,5,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-41,text,true,,313,305,1,1,http://localhost:8901/task/update/161,5,0,0
+1603278688285,5,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-41,text,true,,318,311,1,1,http://localhost:8901/task/update/162,5,0,0
+1603278688291,5,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-41,,true,,191,211,1,1,http://localhost:8901/task/delete/161,0,0,0
+1603278688297,6,HTTP Request-DelList,204,,TaskList CRUD tests load 1-41,,true,,191,212,1,1,http://localhost:8901/tlist/delete/161,0,0,0
+1603278688303,6,HTTP Request-DelList,204,,TaskList CRUD tests load 1-41,,true,,191,212,1,1,http://localhost:8901/tlist/delete/162,0,0,0
+1603278688310,4,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-41,text,true,,305,238,1,1,http://localhost:8901/tlist/create,4,0,0
+1603278688314,4,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-41,text,true,,306,239,1,1,http://localhost:8901/tlist/create,4,0,0
+1603278688319,3,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-41,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278688323,4,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-41,text,true,,310,302,1,1,http://localhost:8901/task/create,4,0,0
+1603278688328,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-41,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278688331,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-41,text,true,,313,305,1,1,http://localhost:8901/task/update/163,2,0,0
+1603278688333,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-41,text,true,,318,311,1,1,http://localhost:8901/task/update/164,2,0,0
+1603278688336,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-41,,true,,191,211,1,1,http://localhost:8901/task/delete/163,0,0,0
+1603278688339,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-41,,true,,191,212,1,1,http://localhost:8901/tlist/delete/163,0,0,0
+1603278688342,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-41,,true,,191,212,1,1,http://localhost:8901/tlist/delete/164,0,0,0
+1603278688363,3,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-42,text,true,,305,238,1,1,http://localhost:8901/tlist/create,3,0,1
+1603278688367,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-42,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278688369,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-42,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278688371,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-42,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278688373,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-42,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278688376,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-42,text,true,,313,305,1,1,http://localhost:8901/task/update/165,2,0,0
+1603278688378,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-42,text,true,,318,311,1,1,http://localhost:8901/task/update/166,3,0,0
+1603278688381,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-42,,true,,191,211,1,1,http://localhost:8901/task/delete/165,0,0,0
+1603278688384,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-42,,true,,191,212,1,1,http://localhost:8901/tlist/delete/165,0,0,0
+1603278688388,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-42,,true,,191,212,1,1,http://localhost:8901/tlist/delete/166,0,0,0
+1603278688391,1,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-42,text,true,,305,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278688393,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-42,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278688394,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-42,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278688397,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-42,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278688399,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-42,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278688401,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-42,text,true,,313,305,1,1,http://localhost:8901/task/update/167,2,0,0
+1603278688403,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-42,text,true,,318,311,1,1,http://localhost:8901/task/update/168,3,0,0
+1603278688406,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-42,,true,,191,211,1,1,http://localhost:8901/task/delete/167,0,0,0
+1603278688409,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-42,,true,,191,212,1,1,http://localhost:8901/tlist/delete/167,0,0,0
+1603278688412,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-42,,true,,191,212,1,1,http://localhost:8901/tlist/delete/168,0,0,0
+1603278688450,4,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-43,text,true,,305,238,1,1,http://localhost:8901/tlist/create,3,0,1
+1603278688454,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-43,text,true,,306,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278688456,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-43,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278688458,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-43,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278688460,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-43,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278688462,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-43,text,true,,313,305,1,1,http://localhost:8901/task/update/169,2,0,0
+1603278688465,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-43,text,true,,318,311,1,1,http://localhost:8901/task/update/170,2,0,0
+1603278688467,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-43,,true,,191,211,1,1,http://localhost:8901/task/delete/169,0,0,0
+1603278688470,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-43,,true,,191,212,1,1,http://localhost:8901/tlist/delete/169,0,0,0
+1603278688473,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-43,,true,,191,212,1,1,http://localhost:8901/tlist/delete/170,0,0,0
+1603278688476,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-43,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278688478,3,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-43,text,true,,306,239,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278688481,3,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-43,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278688484,3,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-43,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278688487,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-43,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278688489,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-43,text,true,,313,305,1,1,http://localhost:8901/task/update/171,3,0,0
+1603278688492,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-43,text,true,,318,311,1,1,http://localhost:8901/task/update/172,3,0,0
+1603278688495,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-43,,true,,191,211,1,1,http://localhost:8901/task/delete/171,0,0,0
+1603278688498,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-43,,true,,191,212,1,1,http://localhost:8901/tlist/delete/171,0,0,0
+1603278688502,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-43,,true,,191,212,1,1,http://localhost:8901/tlist/delete/172,0,0,0
+1603278688554,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-44,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,1
+1603278688556,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-44,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278688558,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-44,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278688559,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-44,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278688560,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-44,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278688561,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-44,text,true,,313,305,1,1,http://localhost:8901/task/update/173,2,0,0
+1603278688563,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-44,text,true,,318,311,1,1,http://localhost:8901/task/update/174,2,0,0
+1603278688565,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-44,,true,,191,211,1,1,http://localhost:8901/task/delete/173,0,0,0
+1603278688567,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-44,,true,,191,212,1,1,http://localhost:8901/tlist/delete/173,0,0,0
+1603278688569,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-44,,true,,191,212,1,1,http://localhost:8901/tlist/delete/174,0,0,0
+1603278688571,1,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-44,text,true,,305,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278688572,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-44,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278688573,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-44,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278688574,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-44,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278688575,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-44,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278688577,1,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-44,text,true,,313,305,1,1,http://localhost:8901/task/update/175,1,0,0
+1603278688578,1,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-44,text,true,,318,311,1,1,http://localhost:8901/task/update/176,1,0,0
+1603278688580,1,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-44,,true,,191,211,1,1,http://localhost:8901/task/delete/175,0,0,0
+1603278688581,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-44,,true,,191,212,1,1,http://localhost:8901/tlist/delete/175,0,0,0
+1603278688583,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-44,,true,,191,212,1,1,http://localhost:8901/tlist/delete/176,0,0,0
+1603278688654,5,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-45,text,true,,305,238,1,1,http://localhost:8901/tlist/create,5,0,1
+1603278688660,3,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-45,text,true,,306,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278688663,3,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-45,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278688666,4,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-45,text,true,,310,302,1,1,http://localhost:8901/task/create,4,0,0
+1603278688670,3,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-45,text,true,,361,183,1,1,http://localhost:8901/task/read,3,0,0
+1603278688674,4,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-45,text,true,,313,305,1,1,http://localhost:8901/task/update/177,4,0,0
+1603278688678,4,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-45,text,true,,318,311,1,1,http://localhost:8901/task/update/178,4,0,0
+1603278688682,6,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-45,,true,,191,211,1,1,http://localhost:8901/task/delete/177,0,0,0
+1603278688688,5,HTTP Request-DelList,204,,TaskList CRUD tests load 1-45,,true,,191,212,1,1,http://localhost:8901/tlist/delete/177,0,0,0
+1603278688693,5,HTTP Request-DelList,204,,TaskList CRUD tests load 1-45,,true,,191,212,1,1,http://localhost:8901/tlist/delete/178,0,0,0
+1603278688699,3,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-45,text,true,,305,238,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278688703,4,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-45,text,true,,306,239,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278688707,3,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-45,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278688711,3,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-45,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278688714,4,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-45,text,true,,361,183,1,1,http://localhost:8901/task/read,3,0,0
+1603278688718,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-45,text,true,,313,305,1,1,http://localhost:8901/task/update/179,3,0,0
+1603278688722,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-45,text,true,,318,311,1,1,http://localhost:8901/task/update/180,2,0,0
+1603278688726,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-45,,true,,191,211,1,1,http://localhost:8901/task/delete/179,0,0,0
+1603278688729,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-45,,true,,191,212,1,1,http://localhost:8901/tlist/delete/179,0,0,0
+1603278688732,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-45,,true,,191,212,1,1,http://localhost:8901/tlist/delete/180,0,0,0
+1603278688752,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-46,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,1
+1603278688754,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-46,text,true,,306,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278688756,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-46,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278688757,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-46,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278688759,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-46,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278688760,1,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-46,text,true,,313,305,1,1,http://localhost:8901/task/update/181,1,0,0
+1603278688762,1,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-46,text,true,,318,311,1,1,http://localhost:8901/task/update/182,1,0,0
+1603278688763,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-46,,true,,191,211,1,1,http://localhost:8901/task/delete/181,0,0,0
+1603278688765,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-46,,true,,191,212,1,1,http://localhost:8901/tlist/delete/181,0,0,0
+1603278688767,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-46,,true,,191,212,1,1,http://localhost:8901/tlist/delete/182,0,0,0
+1603278688769,1,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-46,text,true,,305,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278688771,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-46,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278688772,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-46,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278688773,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-46,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278688775,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-46,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278688776,1,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-46,text,true,,313,305,1,1,http://localhost:8901/task/update/183,1,0,0
+1603278688777,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-46,text,true,,318,311,1,1,http://localhost:8901/task/update/184,2,0,0
+1603278688779,1,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-46,,true,,191,211,1,1,http://localhost:8901/task/delete/183,0,0,0
+1603278688781,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-46,,true,,191,212,1,1,http://localhost:8901/tlist/delete/183,0,0,0
+1603278688783,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-46,,true,,191,212,1,1,http://localhost:8901/tlist/delete/184,0,0,0
+1603278688846,3,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-47,text,true,,305,238,1,1,http://localhost:8901/tlist/create,3,0,1
+1603278688850,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-47,text,true,,306,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278688852,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-47,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278688855,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-47,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278688857,3,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-47,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278688860,4,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-47,text,true,,313,305,1,1,http://localhost:8901/task/update/185,3,0,0
+1603278688864,4,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-47,text,true,,318,311,1,1,http://localhost:8901/task/update/186,4,0,0
+1603278688869,4,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-47,,true,,191,211,1,1,http://localhost:8901/task/delete/185,0,0,0
+1603278688874,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-47,,true,,191,212,1,1,http://localhost:8901/tlist/delete/185,0,0,0
+1603278688877,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-47,,true,,191,212,1,1,http://localhost:8901/tlist/delete/186,0,0,0
+1603278688879,1,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-47,text,true,,305,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278688881,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-47,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278688882,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-47,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278688884,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-47,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278688885,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-47,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278688887,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-47,text,true,,313,305,1,1,http://localhost:8901/task/update/187,2,0,0
+1603278688889,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-47,text,true,,318,311,1,1,http://localhost:8901/task/update/188,2,0,0
+1603278688891,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-47,,true,,191,211,1,1,http://localhost:8901/task/delete/187,0,0,0
+1603278688893,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-47,,true,,191,212,1,1,http://localhost:8901/tlist/delete/187,0,0,0
+1603278688895,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-47,,true,,191,212,1,1,http://localhost:8901/tlist/delete/188,0,0,0
+1603278688946,7,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-48,text,true,,305,238,1,1,http://localhost:8901/tlist/create,7,0,3
+1603278688953,4,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-48,text,true,,306,239,1,1,http://localhost:8901/tlist/create,4,0,0
+1603278688958,3,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-48,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278688962,3,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-48,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278688966,4,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-48,text,true,,361,183,1,1,http://localhost:8901/task/read,3,0,0
+1603278688971,5,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-48,text,true,,313,305,1,1,http://localhost:8901/task/update/189,5,0,0
+1603278688976,5,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-48,text,true,,318,311,1,1,http://localhost:8901/task/update/190,5,0,0
+1603278688981,7,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-48,,true,,191,211,1,1,http://localhost:8901/task/delete/189,0,0,0
+1603278688988,6,HTTP Request-DelList,204,,TaskList CRUD tests load 1-48,,true,,191,212,1,1,http://localhost:8901/tlist/delete/189,0,0,0
+1603278688994,5,HTTP Request-DelList,204,,TaskList CRUD tests load 1-48,,true,,191,212,1,1,http://localhost:8901/tlist/delete/190,0,0,0
+1603278689000,4,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-48,text,true,,305,238,1,1,http://localhost:8901/tlist/create,4,0,0
+1603278689004,4,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-48,text,true,,306,239,1,1,http://localhost:8901/tlist/create,4,0,0
+1603278689008,4,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-48,text,true,,310,302,1,1,http://localhost:8901/task/create,4,0,0
+1603278689013,4,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-48,text,true,,310,302,1,1,http://localhost:8901/task/create,4,0,0
+1603278689018,4,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-48,text,true,,361,183,1,1,http://localhost:8901/task/read,3,0,0
+1603278689022,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-48,text,true,,313,305,1,1,http://localhost:8901/task/update/191,3,0,0
+1603278689025,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-48,text,true,,318,311,1,1,http://localhost:8901/task/update/192,3,0,0
+1603278689028,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-48,,true,,191,211,1,1,http://localhost:8901/task/delete/191,0,0,0
+1603278689032,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-48,,true,,191,212,1,1,http://localhost:8901/tlist/delete/191,0,0,0
+1603278689036,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-48,,true,,191,212,1,1,http://localhost:8901/tlist/delete/192,0,0,0
+1603278689045,4,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-49,text,true,,305,238,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278689049,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-49,text,true,,306,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278689052,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-49,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278689054,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-49,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278689056,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-49,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278689057,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-49,text,true,,313,305,1,1,http://localhost:8901/task/update/193,2,0,0
+1603278689059,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-49,text,true,,318,311,1,1,http://localhost:8901/task/update/194,2,0,0
+1603278689062,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-49,,true,,191,211,1,1,http://localhost:8901/task/delete/193,0,0,0
+1603278689064,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-49,,true,,191,212,1,1,http://localhost:8901/tlist/delete/193,0,0,0
+1603278689066,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-49,,true,,191,212,1,1,http://localhost:8901/tlist/delete/194,0,0,0
+1603278689068,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-49,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278689070,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-49,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278689071,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-49,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278689073,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-49,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278689074,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-49,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278689076,1,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-49,text,true,,313,305,1,1,http://localhost:8901/task/update/195,1,0,0
+1603278689078,1,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-49,text,true,,318,311,1,1,http://localhost:8901/task/update/196,1,0,0
+1603278689079,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-49,,true,,191,211,1,1,http://localhost:8901/task/delete/195,0,0,0
+1603278689081,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-49,,true,,191,212,1,1,http://localhost:8901/tlist/delete/195,0,0,0
+1603278689082,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-49,,true,,191,212,1,1,http://localhost:8901/tlist/delete/196,0,0,0
+1603278689154,7,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-50,text,true,,305,238,1,1,http://localhost:8901/tlist/create,6,0,4
+1603278689161,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-50,text,true,,306,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278689164,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-50,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278689166,3,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-50,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278689169,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-50,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278689171,1,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-50,text,true,,313,305,1,1,http://localhost:8901/task/update/197,1,0,0
+1603278689172,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-50,text,true,,318,311,1,1,http://localhost:8901/task/update/198,2,0,0
+1603278689174,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-50,,true,,191,211,1,1,http://localhost:8901/task/delete/197,0,0,0
+1603278689176,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-50,,true,,191,212,1,1,http://localhost:8901/tlist/delete/197,0,0,0
+1603278689178,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-50,,true,,191,212,1,1,http://localhost:8901/tlist/delete/198,0,0,0
+1603278689180,1,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-50,text,true,,305,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278689181,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-50,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278689182,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-50,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278689183,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-50,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278689185,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-50,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278689186,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-50,text,true,,313,305,1,1,http://localhost:8901/task/update/199,2,0,0
+1603278689188,1,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-50,text,true,,318,311,1,1,http://localhost:8901/task/update/200,1,0,0
+1603278689189,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-50,,true,,191,211,1,1,http://localhost:8901/task/delete/199,0,0,0
+1603278689191,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-50,,true,,191,212,1,1,http://localhost:8901/tlist/delete/199,0,0,0
+1603278689193,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-50,,true,,191,212,1,1,http://localhost:8901/tlist/delete/200,0,0,0
+1603278689250,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-51,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278689252,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-51,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278689253,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-51,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278689255,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-51,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278689256,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-51,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278689257,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-51,text,true,,313,305,1,1,http://localhost:8901/task/update/201,2,0,0
+1603278689259,1,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-51,text,true,,318,311,1,1,http://localhost:8901/task/update/202,1,0,0
+1603278689261,1,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-51,,true,,191,211,1,1,http://localhost:8901/task/delete/201,0,0,0
+1603278689262,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-51,,true,,191,212,1,1,http://localhost:8901/tlist/delete/201,0,0,0
+1603278689264,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-51,,true,,191,212,1,1,http://localhost:8901/tlist/delete/202,0,0,0
+1603278689266,1,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-51,text,true,,305,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278689268,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-51,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278689269,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-51,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278689270,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-51,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278689272,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-51,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278689273,1,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-51,text,true,,313,305,1,1,http://localhost:8901/task/update/203,1,0,0
+1603278689275,1,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-51,text,true,,318,311,1,1,http://localhost:8901/task/update/204,1,0,0
+1603278689276,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-51,,true,,191,211,1,1,http://localhost:8901/task/delete/203,0,0,0
+1603278689278,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-51,,true,,191,212,1,1,http://localhost:8901/tlist/delete/203,0,0,0
+1603278689280,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-51,,true,,191,212,1,1,http://localhost:8901/tlist/delete/204,0,0,0
+1603278689349,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-52,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,1
+1603278689351,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-52,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278689352,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-52,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278689355,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-52,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278689357,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-52,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278689358,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-52,text,true,,313,305,1,1,http://localhost:8901/task/update/205,2,0,0
+1603278689360,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-52,text,true,,318,311,1,1,http://localhost:8901/task/update/206,2,0,0
+1603278689363,4,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-52,,true,,191,211,1,1,http://localhost:8901/task/delete/205,0,0,0
+1603278689367,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-52,,true,,191,212,1,1,http://localhost:8901/tlist/delete/205,0,0,0
+1603278689369,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-52,,true,,191,212,1,1,http://localhost:8901/tlist/delete/206,0,0,0
+1603278689371,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-52,text,true,,305,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278689373,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-52,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278689374,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-52,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278689376,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-52,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278689377,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-52,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278689378,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-52,text,true,,313,305,1,1,http://localhost:8901/task/update/207,2,0,0
+1603278689380,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-52,text,true,,318,311,1,1,http://localhost:8901/task/update/208,2,0,0
+1603278689382,1,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-52,,true,,191,211,1,1,http://localhost:8901/task/delete/207,0,0,0
+1603278689384,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-52,,true,,191,212,1,1,http://localhost:8901/tlist/delete/207,0,0,0
+1603278689386,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-52,,true,,191,212,1,1,http://localhost:8901/tlist/delete/208,0,0,0
+1603278689451,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-53,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278689453,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-53,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278689454,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-53,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278689456,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-53,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278689457,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-53,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278689458,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-53,text,true,,313,305,1,1,http://localhost:8901/task/update/209,2,0,0
+1603278689460,1,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-53,text,true,,318,311,1,1,http://localhost:8901/task/update/210,1,0,0
+1603278689462,1,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-53,,true,,191,211,1,1,http://localhost:8901/task/delete/209,0,0,0
+1603278689463,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-53,,true,,191,212,1,1,http://localhost:8901/tlist/delete/209,0,0,0
+1603278689465,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-53,,true,,191,212,1,1,http://localhost:8901/tlist/delete/210,0,0,0
+1603278689467,1,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-53,text,true,,305,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278689468,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-53,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278689469,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-53,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278689470,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-53,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278689472,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-53,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278689473,1,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-53,text,true,,313,305,1,1,http://localhost:8901/task/update/211,1,0,0
+1603278689474,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-53,text,true,,318,311,1,1,http://localhost:8901/task/update/212,2,0,0
+1603278689476,1,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-53,,true,,191,211,1,1,http://localhost:8901/task/delete/211,0,0,0
+1603278689477,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-53,,true,,191,212,1,1,http://localhost:8901/tlist/delete/211,0,0,0
+1603278689479,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-53,,true,,191,212,1,1,http://localhost:8901/tlist/delete/212,0,0,0
+1603278689551,5,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-54,text,true,,305,238,1,1,http://localhost:8901/tlist/create,5,0,1
+1603278689557,3,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-54,text,true,,306,239,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278689561,3,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-54,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278689565,3,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-54,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278689569,4,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-54,text,true,,361,183,1,1,http://localhost:8901/task/read,3,0,0
+1603278689573,5,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-54,text,true,,313,305,1,1,http://localhost:8901/task/update/213,5,0,0
+1603278689578,5,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-54,text,true,,318,311,1,1,http://localhost:8901/task/update/214,5,0,0
+1603278689584,6,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-54,,true,,191,211,1,1,http://localhost:8901/task/delete/213,0,0,0
+1603278689591,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-54,,true,,191,212,1,1,http://localhost:8901/tlist/delete/213,0,0,0
+1603278689594,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-54,,true,,191,212,1,1,http://localhost:8901/tlist/delete/214,0,0,0
+1603278689598,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-54,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278689600,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-54,text,true,,306,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278689603,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-54,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278689605,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-54,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278689607,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-54,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278689609,4,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-54,text,true,,313,305,1,1,http://localhost:8901/task/update/215,3,0,0
+1603278689613,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-54,text,true,,318,311,1,1,http://localhost:8901/task/update/216,2,0,0
+1603278689615,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-54,,true,,191,211,1,1,http://localhost:8901/task/delete/215,0,0,0
+1603278689618,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-54,,true,,191,212,1,1,http://localhost:8901/tlist/delete/215,0,0,0
+1603278689621,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-54,,true,,191,212,1,1,http://localhost:8901/tlist/delete/216,0,0,0
+1603278689641,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-55,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,1
+1603278689643,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-55,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278689644,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-55,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278689645,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-55,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278689647,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-55,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278689648,1,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-55,text,true,,313,305,1,1,http://localhost:8901/task/update/217,1,0,0
+1603278689649,1,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-55,text,true,,318,311,1,1,http://localhost:8901/task/update/218,1,0,0
+1603278689651,1,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-55,,true,,191,211,1,1,http://localhost:8901/task/delete/217,0,0,0
+1603278689652,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-55,,true,,191,212,1,1,http://localhost:8901/tlist/delete/217,0,0,0
+1603278689654,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-55,,true,,191,212,1,1,http://localhost:8901/tlist/delete/218,0,0,0
+1603278689656,0,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-55,text,true,,305,238,1,1,http://localhost:8901/tlist/create,0,0,0
+1603278689657,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-55,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278689658,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-55,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278689659,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-55,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278689660,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-55,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278689661,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-55,text,true,,313,305,1,1,http://localhost:8901/task/update/219,2,0,0
+1603278689663,1,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-55,text,true,,318,311,1,1,http://localhost:8901/task/update/220,1,0,0
+1603278689664,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-55,,true,,191,211,1,1,http://localhost:8901/task/delete/219,0,0,0
+1603278689666,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-55,,true,,191,212,1,1,http://localhost:8901/tlist/delete/219,0,0,0
+1603278689668,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-55,,true,,191,212,1,1,http://localhost:8901/tlist/delete/220,0,0,0
+1603278689749,1,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-56,text,true,,305,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278689751,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-56,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278689752,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-56,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278689753,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-56,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278689754,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-56,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278689756,1,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-56,text,true,,313,305,1,1,http://localhost:8901/task/update/221,1,0,0
+1603278689757,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-56,text,true,,318,311,1,1,http://localhost:8901/task/update/222,2,0,0
+1603278689759,1,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-56,,true,,191,211,1,1,http://localhost:8901/task/delete/221,0,0,0
+1603278689760,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-56,,true,,191,212,1,1,http://localhost:8901/tlist/delete/221,0,0,0
+1603278689762,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-56,,true,,191,212,1,1,http://localhost:8901/tlist/delete/222,0,0,0
+1603278689763,1,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-56,text,true,,305,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278689765,0,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-56,text,true,,306,239,1,1,http://localhost:8901/tlist/create,0,0,0
+1603278689766,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-56,text,true,,310,302,1,1,http://localhost:8901/task/create,0,0,0
+1603278689767,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-56,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278689768,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-56,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278689769,5,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-56,text,true,,313,305,1,1,http://localhost:8901/task/update/223,5,0,0
+1603278689774,1,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-56,text,true,,318,311,1,1,http://localhost:8901/task/update/224,1,0,0
+1603278689775,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-56,,true,,191,211,1,1,http://localhost:8901/task/delete/223,0,0,0
+1603278689777,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-56,,true,,191,212,1,1,http://localhost:8901/tlist/delete/223,0,0,0
+1603278689778,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-56,,true,,191,212,1,1,http://localhost:8901/tlist/delete/224,0,0,0
+1603278689848,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-57,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278689850,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-57,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278689851,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-57,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278689852,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-57,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278689853,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-57,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278689855,1,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-57,text,true,,313,305,1,1,http://localhost:8901/task/update/225,1,0,0
+1603278689856,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-57,text,true,,318,311,1,1,http://localhost:8901/task/update/226,2,0,0
+1603278689858,1,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-57,,true,,191,211,1,1,http://localhost:8901/task/delete/225,0,0,0
+1603278689860,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-57,,true,,191,212,1,1,http://localhost:8901/tlist/delete/225,0,0,0
+1603278689861,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-57,,true,,191,212,1,1,http://localhost:8901/tlist/delete/226,0,0,0
+1603278689863,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-57,text,true,,305,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278689865,6,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-57,text,true,,306,239,1,1,http://localhost:8901/tlist/create,6,0,0
+1603278689871,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-57,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278689873,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-57,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278689875,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-57,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278689876,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-57,text,true,,313,305,1,1,http://localhost:8901/task/update/227,2,0,0
+1603278689878,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-57,text,true,,318,311,1,1,http://localhost:8901/task/update/228,2,0,0
+1603278689880,1,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-57,,true,,191,211,1,1,http://localhost:8901/task/delete/227,0,0,0
+1603278689882,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-57,,true,,191,212,1,1,http://localhost:8901/tlist/delete/227,0,0,0
+1603278689883,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-57,,true,,191,212,1,1,http://localhost:8901/tlist/delete/228,0,0,0
+1603278689941,5,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-58,text,true,,305,238,1,1,http://localhost:8901/tlist/create,5,0,1
+1603278689946,3,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-58,text,true,,306,239,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278689949,3,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-58,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278689952,4,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-58,text,true,,310,302,1,1,http://localhost:8901/task/create,4,0,0
+1603278689957,3,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-58,text,true,,361,183,1,1,http://localhost:8901/task/read,3,0,0
+1603278689960,4,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-58,text,true,,313,305,1,1,http://localhost:8901/task/update/229,4,0,0
+1603278689964,4,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-58,text,true,,318,311,1,1,http://localhost:8901/task/update/230,4,0,0
+1603278689968,4,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-58,,true,,191,211,1,1,http://localhost:8901/task/delete/229,0,0,0
+1603278689973,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-58,,true,,191,212,1,1,http://localhost:8901/tlist/delete/229,0,0,0
+1603278689977,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-58,,true,,191,212,1,1,http://localhost:8901/tlist/delete/230,0,0,0
+1603278689982,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-58,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278689984,4,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-58,text,true,,306,239,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278689989,3,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-58,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278689992,3,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-58,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278689996,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-58,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278689999,4,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-58,text,true,,313,305,1,1,http://localhost:8901/task/update/231,3,0,0
+1603278690007,4,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-58,text,true,,318,311,1,1,http://localhost:8901/task/update/232,4,0,0
+1603278690011,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-58,,true,,191,211,1,1,http://localhost:8901/task/delete/231,0,0,0
+1603278690014,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-58,,true,,191,212,1,1,http://localhost:8901/tlist/delete/231,0,0,0
+1603278690016,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-58,,true,,191,212,1,1,http://localhost:8901/tlist/delete/232,0,0,0
+1603278690046,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-59,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,1
+1603278690048,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-59,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278690049,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-59,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690050,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-59,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690052,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-59,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278690053,1,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-59,text,true,,313,305,1,1,http://localhost:8901/task/update/233,1,0,0
+1603278690054,1,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-59,text,true,,318,311,1,1,http://localhost:8901/task/update/234,1,0,0
+1603278690056,1,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-59,,true,,191,211,1,1,http://localhost:8901/task/delete/233,0,0,0
+1603278690057,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-59,,true,,191,212,1,1,http://localhost:8901/tlist/delete/233,0,0,0
+1603278690059,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-59,,true,,191,212,1,1,http://localhost:8901/tlist/delete/234,0,0,0
+1603278690060,1,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-59,text,true,,305,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278690061,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-59,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278690062,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-59,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690063,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-59,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690064,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-59,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278690065,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-59,text,true,,313,305,1,1,http://localhost:8901/task/update/235,2,0,0
+1603278690067,1,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-59,text,true,,318,311,1,1,http://localhost:8901/task/update/236,1,0,0
+1603278690068,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-59,,true,,191,211,1,1,http://localhost:8901/task/delete/235,0,0,0
+1603278690070,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-59,,true,,191,212,1,1,http://localhost:8901/tlist/delete/235,0,0,0
+1603278690071,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-59,,true,,191,212,1,1,http://localhost:8901/tlist/delete/236,0,0,0
+1603278690148,6,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-60,text,true,,305,238,1,1,http://localhost:8901/tlist/create,6,0,2
+1603278690155,3,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-60,text,true,,306,239,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278690159,3,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-60,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278690162,4,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-60,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278690166,4,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-60,text,true,,361,183,1,1,http://localhost:8901/task/read,4,0,0
+1603278690171,4,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-60,text,true,,313,305,1,1,http://localhost:8901/task/update/237,4,0,0
+1603278690176,4,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-60,text,true,,318,311,1,1,http://localhost:8901/task/update/238,4,0,0
+1603278690181,5,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-60,,true,,191,211,1,1,http://localhost:8901/task/delete/237,0,0,0
+1603278690187,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-60,,true,,191,212,1,1,http://localhost:8901/tlist/delete/237,0,0,0
+1603278690192,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-60,,true,,191,212,1,1,http://localhost:8901/tlist/delete/238,0,0,0
+1603278690195,1,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-60,text,true,,305,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278690197,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-60,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278690199,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-60,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690201,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-60,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690203,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-60,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278690205,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-60,text,true,,313,305,1,1,http://localhost:8901/task/update/239,2,0,0
+1603278690207,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-60,text,true,,318,311,1,1,http://localhost:8901/task/update/240,3,0,0
+1603278690210,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-60,,true,,191,211,1,1,http://localhost:8901/task/delete/239,0,0,0
+1603278690213,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-60,,true,,191,212,1,1,http://localhost:8901/tlist/delete/239,0,0,0
+1603278690216,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-60,,true,,191,212,1,1,http://localhost:8901/tlist/delete/240,0,0,0
+1603278690245,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-61,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,1
+1603278690247,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-61,text,true,,306,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278690249,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-61,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690251,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-61,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690252,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-61,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278690253,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-61,text,true,,313,305,1,1,http://localhost:8901/task/update/241,2,0,0
+1603278690255,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-61,text,true,,318,311,1,1,http://localhost:8901/task/update/242,2,0,0
+1603278690257,1,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-61,,true,,191,211,1,1,http://localhost:8901/task/delete/241,0,0,0
+1603278690259,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-61,,true,,191,212,1,1,http://localhost:8901/tlist/delete/241,0,0,0
+1603278690260,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-61,,true,,191,212,1,1,http://localhost:8901/tlist/delete/242,0,0,0
+1603278690262,1,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-61,text,true,,305,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278690263,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-61,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278690265,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-61,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690266,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-61,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690267,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-61,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278690268,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-61,text,true,,313,305,1,1,http://localhost:8901/task/update/243,2,0,0
+1603278690270,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-61,text,true,,318,311,1,1,http://localhost:8901/task/update/244,2,0,0
+1603278690272,1,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-61,,true,,191,211,1,1,http://localhost:8901/task/delete/243,0,0,0
+1603278690273,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-61,,true,,191,212,1,1,http://localhost:8901/tlist/delete/243,0,0,0
+1603278690275,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-61,,true,,191,212,1,1,http://localhost:8901/tlist/delete/244,0,0,0
+1603278690348,5,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-62,text,true,,305,238,1,1,http://localhost:8901/tlist/create,5,0,1
+1603278690354,3,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-62,text,true,,306,239,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278690358,5,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-62,text,true,,310,302,1,1,http://localhost:8901/task/create,4,0,0
+1603278690363,4,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-62,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278690368,3,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-62,text,true,,361,183,1,1,http://localhost:8901/task/read,3,0,0
+1603278690372,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-62,text,true,,313,305,1,1,http://localhost:8901/task/update/245,2,0,0
+1603278690375,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-62,text,true,,318,311,1,1,http://localhost:8901/task/update/246,2,0,0
+1603278690378,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-62,,true,,191,211,1,1,http://localhost:8901/task/delete/245,0,0,0
+1603278690381,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-62,,true,,191,212,1,1,http://localhost:8901/tlist/delete/245,0,0,0
+1603278690384,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-62,,true,,191,212,1,1,http://localhost:8901/tlist/delete/246,0,0,0
+1603278690387,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-62,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278690390,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-62,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278690392,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-62,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278690394,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-62,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278690396,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-62,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278690398,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-62,text,true,,313,305,1,1,http://localhost:8901/task/update/247,3,0,0
+1603278690401,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-62,text,true,,318,311,1,1,http://localhost:8901/task/update/248,2,0,0
+1603278690404,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-62,,true,,191,211,1,1,http://localhost:8901/task/delete/247,0,0,0
+1603278690406,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-62,,true,,191,212,1,1,http://localhost:8901/tlist/delete/247,0,0,0
+1603278690410,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-62,,true,,191,212,1,1,http://localhost:8901/tlist/delete/248,0,0,0
+1603278690445,4,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-63,text,true,,305,238,1,1,http://localhost:8901/tlist/create,3,0,1
+1603278690449,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-63,text,true,,306,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278690451,3,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-63,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278690454,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-63,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278690457,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-63,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278690459,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-63,text,true,,313,305,1,1,http://localhost:8901/task/update/249,3,0,0
+1603278690462,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-63,text,true,,318,311,1,1,http://localhost:8901/task/update/250,3,0,0
+1603278690465,4,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-63,,true,,191,211,1,1,http://localhost:8901/task/delete/249,0,0,0
+1603278690469,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-63,,true,,191,212,1,1,http://localhost:8901/tlist/delete/249,0,0,0
+1603278690473,4,HTTP Request-DelList,204,,TaskList CRUD tests load 1-63,,true,,191,212,1,1,http://localhost:8901/tlist/delete/250,0,0,0
+1603278690477,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-63,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278690479,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-63,text,true,,306,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278690482,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-63,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278690484,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-63,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278690487,3,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-63,text,true,,361,183,1,1,http://localhost:8901/task/read,3,0,0
+1603278690490,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-63,text,true,,313,305,1,1,http://localhost:8901/task/update/251,2,0,0
+1603278690492,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-63,text,true,,318,311,1,1,http://localhost:8901/task/update/252,2,0,0
+1603278690494,1,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-63,,true,,191,211,1,1,http://localhost:8901/task/delete/251,0,0,0
+1603278690495,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-63,,true,,191,212,1,1,http://localhost:8901/tlist/delete/251,0,0,0
+1603278690497,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-63,,true,,191,212,1,1,http://localhost:8901/tlist/delete/252,0,0,0
+1603278690536,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-64,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,1
+1603278690539,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-64,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278690540,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-64,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690541,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-64,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690543,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-64,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278690544,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-64,text,true,,313,305,1,1,http://localhost:8901/task/update/253,2,0,0
+1603278690546,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-64,text,true,,318,311,1,1,http://localhost:8901/task/update/254,1,0,0
+1603278690548,1,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-64,,true,,191,211,1,1,http://localhost:8901/task/delete/253,0,0,0
+1603278690550,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-64,,true,,191,212,1,1,http://localhost:8901/tlist/delete/253,0,0,0
+1603278690551,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-64,,true,,191,212,1,1,http://localhost:8901/tlist/delete/254,0,0,0
+1603278690553,1,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-64,text,true,,305,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278690555,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-64,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278690556,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-64,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690557,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-64,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690559,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-64,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278690560,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-64,text,true,,313,305,1,1,http://localhost:8901/task/update/255,1,0,0
+1603278690562,1,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-64,text,true,,318,311,1,1,http://localhost:8901/task/update/256,1,0,0
+1603278690564,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-64,,true,,191,211,1,1,http://localhost:8901/task/delete/255,0,0,0
+1603278690566,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-64,,true,,191,212,1,1,http://localhost:8901/tlist/delete/255,0,0,0
+1603278690569,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-64,,true,,191,212,1,1,http://localhost:8901/tlist/delete/256,0,0,0
+1603278690643,3,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-65,text,true,,305,238,1,1,http://localhost:8901/tlist/create,3,0,1
+1603278690647,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-65,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278690648,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-65,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690650,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-65,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690651,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-65,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278690653,1,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-65,text,true,,313,305,1,1,http://localhost:8901/task/update/257,1,0,0
+1603278690655,1,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-65,text,true,,318,311,1,1,http://localhost:8901/task/update/258,1,0,0
+1603278690656,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-65,,true,,191,211,1,1,http://localhost:8901/task/delete/257,0,0,0
+1603278690658,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-65,,true,,191,212,1,1,http://localhost:8901/tlist/delete/257,0,0,0
+1603278690661,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-65,,true,,191,212,1,1,http://localhost:8901/tlist/delete/258,0,0,0
+1603278690662,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-65,text,true,,305,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278690664,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-65,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278690665,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-65,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690666,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-65,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690667,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-65,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278690669,1,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-65,text,true,,313,305,1,1,http://localhost:8901/task/update/259,1,0,0
+1603278690670,1,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-65,text,true,,318,311,1,1,http://localhost:8901/task/update/260,1,0,0
+1603278690671,1,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-65,,true,,191,211,1,1,http://localhost:8901/task/delete/259,0,0,0
+1603278690673,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-65,,true,,191,212,1,1,http://localhost:8901/tlist/delete/259,0,0,0
+1603278690674,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-65,,true,,191,212,1,1,http://localhost:8901/tlist/delete/260,0,0,0
+1603278690735,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-66,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,1
+1603278690738,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-66,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278690739,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-66,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690741,0,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-66,text,true,,310,302,1,1,http://localhost:8901/task/create,0,0,0
+1603278690742,0,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-66,text,true,,361,183,1,1,http://localhost:8901/task/read,0,0,0
+1603278690743,1,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-66,text,true,,313,305,1,1,http://localhost:8901/task/update/261,1,0,0
+1603278690744,1,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-66,text,true,,318,311,1,1,http://localhost:8901/task/update/262,1,0,0
+1603278690745,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-66,,true,,191,211,1,1,http://localhost:8901/task/delete/261,0,0,0
+1603278690747,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-66,,true,,191,212,1,1,http://localhost:8901/tlist/delete/261,0,0,0
+1603278690749,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-66,,true,,191,212,1,1,http://localhost:8901/tlist/delete/262,0,0,0
+1603278690750,1,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-66,text,true,,305,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278690751,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-66,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278690752,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-66,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690753,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-66,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690754,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-66,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278690756,1,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-66,text,true,,313,305,1,1,http://localhost:8901/task/update/263,1,0,0
+1603278690757,1,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-66,text,true,,318,311,1,1,http://localhost:8901/task/update/264,1,0,0
+1603278690759,1,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-66,,true,,191,211,1,1,http://localhost:8901/task/delete/263,0,0,0
+1603278690760,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-66,,true,,191,212,1,1,http://localhost:8901/tlist/delete/263,0,0,0
+1603278690761,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-66,,true,,191,212,1,1,http://localhost:8901/tlist/delete/264,0,0,0
+1603278690843,3,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-67,text,true,,305,238,1,1,http://localhost:8901/tlist/create,3,0,1
+1603278690846,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-67,text,true,,306,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278690848,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-67,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278690850,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-67,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690852,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-67,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278690854,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-67,text,true,,313,305,1,1,http://localhost:8901/task/update/265,2,0,0
+1603278690856,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-67,text,true,,318,311,1,1,http://localhost:8901/task/update/266,2,0,0
+1603278690859,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-67,,true,,191,211,1,1,http://localhost:8901/task/delete/265,0,0,0
+1603278690861,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-67,,true,,191,212,1,1,http://localhost:8901/tlist/delete/265,0,0,0
+1603278690864,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-67,,true,,191,212,1,1,http://localhost:8901/tlist/delete/266,0,0,0
+1603278690867,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-67,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278690870,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-67,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278690872,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-67,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690874,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-67,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278690877,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-67,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278690879,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-67,text,true,,313,305,1,1,http://localhost:8901/task/update/267,2,0,0
+1603278690882,1,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-67,text,true,,318,311,1,1,http://localhost:8901/task/update/268,1,0,0
+1603278690884,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-67,,true,,191,211,1,1,http://localhost:8901/task/delete/267,0,0,0
+1603278690887,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-67,,true,,191,212,1,1,http://localhost:8901/tlist/delete/267,0,0,0
+1603278690890,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-67,,true,,191,212,1,1,http://localhost:8901/tlist/delete/268,0,0,0
+1603278690938,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-68,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278690940,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-68,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278690941,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-68,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690942,1,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-68,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690944,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-68,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278690945,1,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-68,text,true,,313,305,1,1,http://localhost:8901/task/update/269,1,0,0
+1603278690946,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-68,text,true,,318,311,1,1,http://localhost:8901/task/update/270,2,0,0
+1603278690948,1,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-68,,true,,191,211,1,1,http://localhost:8901/task/delete/269,0,0,0
+1603278690950,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-68,,true,,191,212,1,1,http://localhost:8901/tlist/delete/269,0,0,0
+1603278690951,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-68,,true,,191,212,1,1,http://localhost:8901/tlist/delete/270,0,0,0
+1603278690953,1,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-68,text,true,,305,238,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278690954,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-68,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278690955,1,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-68,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278690956,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-68,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278690958,1,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-68,text,true,,361,183,1,1,http://localhost:8901/task/read,1,0,0
+1603278690959,1,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-68,text,true,,313,305,1,1,http://localhost:8901/task/update/271,1,0,0
+1603278690960,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-68,text,true,,318,311,1,1,http://localhost:8901/task/update/272,2,0,0
+1603278690962,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-68,,true,,191,211,1,1,http://localhost:8901/task/delete/271,0,0,0
+1603278690964,1,HTTP Request-DelList,204,,TaskList CRUD tests load 1-68,,true,,191,212,1,1,http://localhost:8901/tlist/delete/271,0,0,0
+1603278690965,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-68,,true,,191,212,1,1,http://localhost:8901/tlist/delete/272,0,0,0
+1603278691039,6,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-69,text,true,,305,238,1,1,http://localhost:8901/tlist/create,5,0,2
+1603278691045,3,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-69,text,true,,306,239,1,1,http://localhost:8901/tlist/create,3,0,0
+1603278691049,3,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-69,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278691053,3,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-69,text,true,,310,302,1,1,http://localhost:8901/task/create,3,0,0
+1603278691057,3,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-69,text,true,,361,183,1,1,http://localhost:8901/task/read,3,0,0
+1603278691061,5,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-69,text,true,,313,305,1,1,http://localhost:8901/task/update/273,5,0,0
+1603278691067,5,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-69,text,true,,318,311,1,1,http://localhost:8901/task/update/274,5,0,0
+1603278691072,6,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-69,,true,,191,211,1,1,http://localhost:8901/task/delete/273,0,0,0
+1603278691078,5,HTTP Request-DelList,204,,TaskList CRUD tests load 1-69,,true,,191,212,1,1,http://localhost:8901/tlist/delete/273,0,0,0
+1603278691084,5,HTTP Request-DelList,204,,TaskList CRUD tests load 1-69,,true,,191,212,1,1,http://localhost:8901/tlist/delete/274,0,0,0
+1603278691089,3,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-69,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278691092,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-69,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278691094,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-69,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278691096,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-69,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278691098,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-69,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278691100,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-69,text,true,,313,305,1,1,http://localhost:8901/task/update/275,2,0,0
+1603278691103,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-69,text,true,,318,311,1,1,http://localhost:8901/task/update/276,2,0,0
+1603278691106,2,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-69,,true,,191,211,1,1,http://localhost:8901/task/delete/275,0,0,0
+1603278691109,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-69,,true,,191,212,1,1,http://localhost:8901/tlist/delete/275,0,0,0
+1603278691112,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-69,,true,,191,212,1,1,http://localhost:8901/tlist/delete/276,0,0,0
+1603278691131,3,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-70,text,true,,305,238,1,1,http://localhost:8901/tlist/create,3,0,1
+1603278691135,1,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-70,text,true,,306,239,1,1,http://localhost:8901/tlist/create,1,0,0
+1603278691137,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-70,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278691139,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-70,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278691141,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-70,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278691144,2,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-70,text,true,,313,305,1,1,http://localhost:8901/task/update/277,2,0,0
+1603278691146,3,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-70,text,true,,318,311,1,1,http://localhost:8901/task/update/278,3,0,0
+1603278691149,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-70,,true,,191,211,1,1,http://localhost:8901/task/delete/277,0,0,0
+1603278691152,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-70,,true,,191,212,1,1,http://localhost:8901/tlist/delete/277,0,0,0
+1603278691156,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-70,,true,,191,212,1,1,http://localhost:8901/tlist/delete/278,0,0,0
+1603278691159,2,HTTP Request-createShopping,201,,TaskList CRUD tests load 1-70,text,true,,305,238,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278691161,2,HTTP Request-createReminders,201,,TaskList CRUD tests load 1-70,text,true,,306,239,1,1,http://localhost:8901/tlist/create,2,0,0
+1603278691163,2,HTTP Request-createTaskClean,201,,TaskList CRUD tests load 1-70,text,true,,310,302,1,1,http://localhost:8901/task/create,1,0,0
+1603278691165,2,HTTP Request-createTaskEggs,201,,TaskList CRUD tests load 1-70,text,true,,310,302,1,1,http://localhost:8901/task/create,2,0,0
+1603278691167,2,HTTP Request - readTasks,200,,TaskList CRUD tests load 1-70,text,true,,361,183,1,1,http://localhost:8901/task/read,2,0,0
+1603278691169,3,HTTP Request-UpdateTaskClean,202,,TaskList CRUD tests load 1-70,text,true,,313,305,1,1,http://localhost:8901/task/update/279,3,0,0
+1603278691172,2,HTTP Request-UpdateTaskEggs,202,,TaskList CRUD tests load 1-70,text,true,,318,311,1,1,http://localhost:8901/task/update/280,2,0,0
+1603278691175,3,HTTP Request-DelTask,204,,TaskList CRUD tests load 1-70,,true,,191,211,1,1,http://localhost:8901/task/delete/279,0,0,0
+1603278691178,3,HTTP Request-DelList,204,,TaskList CRUD tests load 1-70,,true,,191,212,1,1,http://localhost:8901/tlist/delete/279,0,0,0
+1603278691181,2,HTTP Request-DelList,204,,TaskList CRUD tests load 1-70,,true,,191,212,1,1,http://localhost:8901/tlist/delete/280,0,0,0
